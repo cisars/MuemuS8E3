@@ -1,0 +1,4 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
+ 14			162      0       0     	0       0      	0       0	//"Magic Bag Pack "    
+14			163      0       0     	0       0      	0       0	//"Vault Expansion Certification "  
+end

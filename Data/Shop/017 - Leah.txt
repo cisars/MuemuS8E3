@@ -1,0 +1,46 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
+7           39     2       0     0       1      1        0  // Violent set
+8           39     2       0     0       1      1        0  // Violent set
+9           39     2       0     0       1      1        0  // Violent set
+10          39     2       0     0       1      1        0  // Violent set
+11          39     2       0     0       1      1        0  // Violent set
+7           40     3       0     0       1      1        0  // Red Winged seet
+8           40     3       0     0       1      1        0  // Red Winged seet
+9           40     3       0     0       1      1        0  // Red Winged seet
+10          40     3       0     0       1      1        0  // Red Winged seet
+11          40     3       0     0       1      1        0  // Red Winged seet
+1           0      1       0     0       1      1        0
+0           1      0       0     0       1      1        0
+1           1      1       0     0       1      1        0
+0           2      2       0     1       1      1        0
+1           4      1       0     0       1      1        0
+0           0      1       0     0       1      1        0
+5           0      1       0     0       1      1        0
+5           14     1       0     0       1      1        0
+5           15     2       0     0       1      1        0
+5           16     3       0     0       1      1        0
+
+// Scrolls Rage Fighter
+//15          30     0       1     0       0      0        0
+//15          31     0       1     0       0      0        0
+//15          32     0       1     0       0      0        0
+//15          33     0       1     0       0      0        0
+//15          34     0       1     0       0      0        0
+//15          35     0       1     0       0      0        0
+//15          36     0       1     0       0      0        0 
+
+// Orbs
+//12	7	0	0	0	0	0	0 //Orb of Twisting Slash
+//12	9	0	0	0	0	0	0 //Orb of Great Defense
+//12	12	0	0	0	0	0	0 //Orb of Rageful Blow
+//12	13	0	0	0	0	0	0 //Orb of Impale
+//12	16	0	0	0	0	0	0 //Orb of Fire Slash
+//12	17	0	0	0	0	0	0 //Orb of Penetration
+//12	18	0	0	0	0	0	0 //Orb of Ice Arrow
+//12	19	0	0	0	0	0	0 //Orb of Death Stab
+//12	20	0	0	0	0	0	0 //__요정추가스킬
+//12	44	0	0	0	0	0	0 //Orb of Explotion
+//12	45	0	0	0	0	0	0 //Orb of Five Shot
+//12	46	0	0	0	0	0	0 //Orb of Reduce Dmg Shield
+//12	47	0	0	0	0	0	0 //Orb of Sword Slash
+end

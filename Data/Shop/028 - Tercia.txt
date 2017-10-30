@@ -1,0 +1,32 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
+13          37    	0       0    	0       0     	0      	0   // Fenrir Rojo
+13          37    	0       0    	0       0     	0     	1   // Fenrir Negro
+13          37    	0       0    	0       0     	0      	2   // Fenrir Azul
+13          37    	0       0    	0       0     	0      	4   // Fenrir Dorado
+14	176	0       0     	0       0      	0       0	//Death King's Bone
+14	177	0       0     	0       0      	0       0	//Hell Maine's Leather
+14	178	0       0     	0       0      	0       0	//Dark Phoenix Flame
+14	179	0       0     	0       0      	0       0	//Death Beam Knight Soul
+14	180	0       0     	0       0      	0       0	//Ice Walker's Mane
+14	181	0       0     	0       0      	0       0	//Mammoth's Bundle of Fur
+14	182	0       0     	0       0      	0       0	//Giant's Icicle
+14	183	0       0     	0       0      	0       0	//Coolutin's Poison
+14	184	0       0     	0       0      	0       0	//Iron Knight's Heart
+14	185	0       0     	0       0      	0       0	//Dark Mammoth's Horn
+14	186	0       0     	0       0      	0       0	//Dark Giant's Axe
+14	187	0       0     	0       0      	0       0	//Dark Coolutin's Blood
+14	188	0       0     	0       0      	0       0	//Dark Iron Knight's Sword
+14	191	0       0     	0       0      	0       0	//Sonic Combination Note
+14	192	0       0     	0       0      	0       0	//Cyclone Combination Note
+14	193	0       0     	0       0      	0       0	//Blast Combination Note
+14	194	0       0     	0       0      	0       0	//Magma Combination Note
+14	195	0       0     	0       0      	0       0	//Horn Combination Note
+14	196	0       0     	0       0      	0       0	//Angelic Combination Note
+14	197	0       0     	0       0      	0       0	//Devil Cross Combination Note
+14	198	0       0     	0       0      	0       0	//Miracle Combination Note
+14	199	0       0     	0       0      	0       0	//Spite Combination Note
+14	200	0       0     	0       0      	0       0	//Asura Combination Note
+14	201	0       0     	0       0      	0       0	//Thunder Combination Note
+14	202	0       0     	0       0      	0       0	//Soul Combination Note
+
+end
