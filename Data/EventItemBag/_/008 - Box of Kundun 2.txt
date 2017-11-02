@@ -1,0 +1,508 @@
+0
+//EventName              	DropZen		ItemDropRate   	ItemDropCount	SetItemDropRate		ItemDropType	Fireworks	
+"Box of Kundun 2"	 		75000		60		 		1		  		0		    		0				0
+end
+
+1
+//Section   Type   MinLevel   	MaxLevel   		Skill	Luck   Option   Excellent
+12			15		0				0			0		0		0		0  	//Chaos
+14			13		0				0			0		0		0		0  	//Bless
+14			14		0				0			0		0		0		0  	//Soul
+14			16		0				0			0		0		0		0  	//Life
+14			22		0				0			0		0		0		0  	//Creation
+14			42		0				0			0		0		0		0  	//Harmony
+// Exe 1 opt sin luck
+7			4		0				0			0		0		0		1 	//Bone Helm
+8			4		0				0			0		0		0		1 	//Bone Armor
+9			4		0				0			0		0		0		1 	//Bone Pants
+10			4		0				0			0		0		0		1 	//Bone Gloves
+11			4		0				0			0		0		0		1 	//Bone Boots
+7			7		0				0			0		0		0		1 	//Sphinx Helm
+8			7		0				0			0		0		0		1 	//Sphinx Armor
+9			7		0				0			0		0		0		1 	//Sphinx Pants
+10			7		0				0			0		0		0		1 	//Sphinx Gloves
+11			7		0				0			0		0		0		1 	//Sphinx Boots
+7			11		0				0			0		0		0		1 	//Silk Helm
+8			11		0				0			0		0		0		1 	//Silk Armor
+9			11		0				0			0		0		0		1 	//Silk Pants
+10			11		0				0			0		0		0		1 	//Silk Gloves
+11			11		0				0			0		0		0		1 	//Silk Boots
+7			12		0				0			0		0		0		1 	//Wind Helm
+8			12		0				0			0		0		0		1 	//Wind Armor
+9			12		0				0			0		0		0		1 	//Wind Pants
+10			12		0				0			0		0		0		1 	//Wind Gloves
+11			12		0				0			0		0		0		1 	//Wind Boots
+7			6		0				0			0		0		0		1	//Scale Helm
+8			6		0				0			0		0		0		1	//Scale Armor
+9			6		0				0			0		0		0		1	//Scale Pants
+10			6		0				0			0		0		0		1	//Scale Gloves
+11			6		0				0			0		0		0		1	//Scale Boots
+7			8		0				0			0		0		0		1	//Brass Helm
+8			8		0				0			0		0		0		1	//Brass Armor
+9			8		0				0			0		0		0		1	//Brass Pants
+10			8		0				0			0		0		0		1	//Brass Gloves
+11			8		0				0			0		0		0		1	//Brass Boots
+7			40		0				0			0		0		0		1  	//Red Wing Helm 
+8			40		0				0			0		0		0		1  	//Red Wing Armor 
+9			40		0				0			0		0		0		1  	//Red Wing Pants 
+10			40		0				0			0		0		0		1  	//Red Wing Gloves 
+11			40		0				0			0		0		0		1  	//Red Wing Boots
+// Exe 2 opt sin luck
+7			4		0				0			0		0		0		2 	//Bone 		Helm
+8			4		0				0			0		0		0		2 	//Bone 		Armor
+9			4		0				0			0		0		0		2 	//Bone 		Pants
+10			4		0				0			0		0		0		2 	//Bone 		Gloves
+11			4		0				0			0		0		0		2 	//Bone 		Boots
+7			7		0				0			0		0		0		2 	//Sphinx 	Helm
+8			7		0				0			0		0		0		2 	//Sphinx 	Armor
+9			7		0				0			0		0		0		2 	//Sphinx 	Pants
+10			7		0				0			0		0		0		2 	//Sphinx 	Gloves
+11			7		0				0			0		0		0		2 	//Sphinx 	Boots
+7			11		0				0			0		0		0		2 	//Silk 		Helm
+8			11		0				0			0		0		0		2 	//Silk 		Armor
+9			11		0				0			0		0		0		2 	//Silk 		Pants
+10			11		0				0			0		0		0		2 	//Silk 		Gloves
+11			11		0				0			0		0		0		2 	//Silk 		Boots
+7			12		0				0			0		0		0		2 	//Wind 		Helm
+8			12		0				0			0		0		0		2 	//Wind 		Armor
+9			12		0				0			0		0		0		2 	//Wind 		Pants
+10			12		0				0			0		0		0		2 	//Wind 		Gloves
+11			12		0				0			0		0		0		2 	//Wind 		Boots
+7			6		0				0			0		0		0		2	//Scale Helm
+8			6		0				0			0		0		0		2	//Scale Armor
+9			6		0				0			0		0		0		2	//Scale Pants
+10			6		0				0			0		0		0		2	//Scale Gloves
+11			6		0				0			0		0		0		2	//Scale Boots
+7			8		0				0			0		0		0		2	//Brass Helm
+8			8		0				0			0		0		0		2	//Brass Armor
+9			8		0				0			0		0		0		2	//Brass Pants
+10			8		0				0			0		0		0		2	//Brass Gloves
+11			8		0				0			0		0		0		2	//Brass Boots
+7			40		0				0			0		0		0		2  	//Red Wing Helm 
+8			40		0				0			0		0		0		2  	//Red Wing Armor 
+9			40		0				0			0		0		0		2  	//Red Wing Pants 
+10			40		0				0			0		0		0		2  	//Red Wing Gloves 
+11			40		0				0			0		0		0		2  	//Red Wing Boots
+// Exe  luck
+7			4		0				0			0		1		0		2 	//Bone 		Helm
+8			4		0				0			0		1		0		2 	//Bone 		Armor
+9			4		0				0			0		1		0		2 	//Bone 		Pants
+10			4		0				0			0		1		0		2 	//Bone 		Gloves
+11			4		0				0			0		1		0		2 	//Bone 		Boots
+7			7		0				0			0		1		0		2 	//Sphinx 	Helm
+8			7		0				0			0		1		0		2 	//Sphinx 	Armor
+9			7		0				0			0		1		0		2 	//Sphinx 	Pants
+10			7		0				0			0		1		0		2 	//Sphinx 	Gloves
+11			7		0				0			0		1		0		2 	//Sphinx 	Boots
+7			11		0				0			0		1		0		2 	//Silk 		Helm
+8			11		0				0			0		1		0		2 	//Silk 		Armor
+9			11		0				0			0		1		0		2 	//Silk 		Pants
+10			11		0				0			0		1		0		2 	//Silk 		Gloves
+11			11		0				0			0		1		0		2 	//Silk 		Boots
+7			12		0				0			0		1		0		2 	//Wind 		Helm
+8			12		0				0			0		1		0		2 	//Wind 		Armor
+9			12		0				0			0		1		0		2 	//Wind 		Pants
+10			12		0				0			0		1		0		2 	//Wind 		Gloves
+11			12		0				0			0		1		0		2 	//Wind 		Boots
+7			6		0				0		  	0		1		0		2	//Scale Helm
+8			6		0				0			0		1		0		2	//Scale Armor
+9			6		0				0			0		1		0		2	//Scale Pants
+10			6		0				0			0		1		0		2	//Scale Gloves
+11			6		0				0			0		1		0		2	//Scale Boots
+7			8		0				0			0		1		0		2	//Brass Helm
+8			8		0				0			0		1		0		2	//Brass Armor
+9			8		0				0			0		1		0		2	//Brass Pants
+10			8		0				0			0		1		0		2	//Brass Gloves
+11			8		0				0			0		1		0		2	//Brass Boots
+7			40		0				0			0		1		0		2  	//Red Wing Helm 
+8			40		0				0			0		1		0		2  	//Red Wing Armor 
+9			40		0				0			0		1		0		2  	//Red Wing Pants 
+10			40		0				0			0		1		0		2  	//Red Wing Gloves 
+11			40		0				0			0		1		0		2  	//Red Wing Boots
+// armas exe 1 opt 
+0			14		0				0			0		0		0		1  	//Lightning Sword
+0			15		0				0			0		0		0		1  	//Giant Sword
+5           15		0				0			0       0		0		1   //Violent wind staff 
+6           6		0				0			0       0		0		1   //Skull Shield
+6           7		0				0			0       0		0		1   //Spike Shield
+6           8		0				0			0       0		0		1   //Tower Shield
+5           3		0				0			0       0		0		1   //thunder staff 
+5           4		0				0			0       0		0		1   //Gorgon staff 
+4           4		0				0			1       0		0		1   //Tiger Bow	 
+4           11		0				0			1       0		0		1   //Light Crossbow	 
+4           12		0				0			1       0		0		1   //Serpent Crossbow
+// armas exe 2 opt 
+0			14		0				0			0		0		0		2  	//Lightning Sword
+0			15		0				0			0		0		0		2  	//Giant Sword
+5           15		0				0			0       0		0		2   //Violent wind staff 
+6           6		0				0			0       0		0		2   //Skull Shield
+6           7		0				0			0       0		0		2   //Spike Shield
+6           8		0				0			0       0		0		2   //Tower Shield
+5           3		0				0			0       0		0		2   //thunder staff 
+5           4		0				0			0       0		0		2   //Gorgon staff 
+4           4		0				0			1       0		0		2   //Tiger Bow	 
+4           11		0				0			1       0		0		2   //Light Crossbow	 
+4           12		0				0			1       0		0		2   //Serpent Crossbow
+// armas exe luck
+0			14		0				0			0		1		0		2  	//Lightning Sword
+0			15		0				0			0		1		0		2  	//Giant Sword
+5           15		0				0			0       1		0		2   //Violent wind staff 
+6           6		0				0			0       1		0		2   //Skull Shield
+6           7		0				0			0       1		0		2   //Spike Shield
+6           8		0				0			0       1		0		2   //Tower Shield
+5           3		0				0			0       1		0		2   //thunder staff 
+5           4		0				0			0       1		0		2   //Gorgon staff 
+4           4		0				0			1       1		0		2   //Tiger Bow	 
+4           11		0				0			1       1		0		2   //Light Crossbow	 
+4           12		0				0			1       1		0		2   //Serpent Crossbow
+// items normales armas
+4           12		8				9			1       0		2		0   //Serpent Crossbow
+4			13		8				9			1       0		2		0   //Bluewing Crossbow	 
+4			14		8				9			1       0		2		0   //Aquagold Crossbow
+4			5		8				9			1       0		2		0   //Silver Bow
+2			4		8				9			1       0		2		0   //Crystal Morning Star
+2			8		8				9			1       0		2		0   //Battle Scepter
+3			9		8				9			1       0		2		0   //Bill of Balrog
+5			5		8				9			0       0		2		0   //Legendary Staff
+6			9		8				9			1       0		2		0   //Plate Shield	 
+6			10		8				9			1       0		2		0   //Large Round Shield	 
+6			11		8				9			1       0		2		0   //Serpent Shield	 
+6			12		8				9			1       0		2		0   //Bronze Shield	 
+6			13		8				9			1       0		2		0   //Chaos Dragon Shield	 
+6			14		8				9			0       0		2		0   //Legendary Shield
+
+4           12		8				9			1       0		3		0   //Serpent Crossbow
+4			13		8				9			1       0		3		0   //Bluewing Crossbow	 
+4			14		8				9			1       0		3		0   //Aquagold Crossbow
+4			5		8				9			1       0		3		0   //Silver Bow
+2			4		8				9			1       0		3		0   //Crystal Morning Star
+2			8		8				9			1       0		3		0   //Battle Scepter
+3			9		8				9			1       0		3		0   //Bill of Balrog
+5			5		8				9			0       0		3		0   //Legendary Staff
+6			9		8				9			1       0		3		0   //Plate Shield	 
+6			10		8				9			1       0		3		0   //Large Round Shield	 
+6			11		8				9			1       0		3		0   //Serpent Shield	 
+6			12		8				9			1       0		3		0   //Bronze Shield	 
+6			13		8				9			1       0		3		0   //Chaos Dragon Shield	 
+6			14		8				9			0       0		3		0   //Legendary Shield
+
+4           12		8				9			1       1		2		0   //Serpent Crossbow
+4			13		8				9			1       1		2		0   //Bluewing Crossbow	 
+4			14		8				9			1       1		2		0   //Aquagold Crossbow
+4			5		8				9			1       1		2		0   //Silver Bow
+2			4		8				9			1       1		2		0   //Crystal Morning Star
+2			8		8				9			1       1		2		0   //Battle Scepter
+3			9		8				9			1       1		2		0   //Bill of Balrog
+5			5		8				9			0       1		2		0   //Legendary Staff
+6			9		8				9			1       1		2		0   //Plate Shield	 
+6			10		8				9			1       1		2		0   //Large Round Shield	 
+6			11		8				9			1       1		2		0   //Serpent Shield	 
+6			12		8				9			1       1		2		0   //Bronze Shield	 
+6			13		8				9			1       1		2		0   //Chaos Dragon Shield	 
+6			14		8				9			0       1		2		0   //Legendary Shield
+
+4           12		8				9			1       1		3		0   //Serpent Crossbow
+4			13		8				9			1       1		3		0   //Bluewing Crossbow	 
+4			14		8				9			1       1		3		0   //Aquagold Crossbow
+4			5		8				9			1       1		3		0   //Silver Bow
+2			4		8				9			1       1		3		0   //Crystal Morning Star
+2			8		8				9			1       1		3		0   //Battle Scepter
+3			9		8				9			1       1		3		0   //Bill of Balrog
+5			5		8				9			0       1		3		0   //Legendary Staff
+6			9		8				9			1       1		3		0   //Plate Shield	 
+6			10		8				9			1       1		3		0   //Large Round Shield	 
+6			11		8				9			1       1		3		0   //Serpent Shield	 
+6			12		8				9			1       1		3		0   //Bronze Shield	 
+6			13		8				9			1       1		3		0   //Chaos Dragon Shield	 
+6			14		8				9			0       1		3		0   //Legendary Shield
+//items normales sets
+7			1		8				9			0		0		2		0	//Dragon Helm
+8			1		8				9			0		0		2		0	//Dragon Armor
+9			1		8				9			0		0		2		0	//Dragon Pants
+10			1		8				9			0		0		2		0	//Dragon Gloves
+11			1		8				9			0		0		2		0	//Dragon Boots
+7			3		8				9			0		0		2		0	//Legendary Helm
+8			3		8				9			0		0		2		0	//Legendary Armor
+9			3		8				9			0		0		2		0	//Legendary Pants
+10			3		8				9			0		0		2		0	//Legendary Gloves
+11			3		8				9			0		0		2		0	//Legendary Boots
+7			6		8				9			0		0		2		0	//Scale Helm
+8			6		8				9			0		0		2		0	//Scale Armor
+9			6		8				9			0		0		2		0	//Scale Pants
+10			6		8				9			0		0		2		0	//Scale Gloves
+11			6		8				9			0		0		2		0	//Scale Boots
+7			8		8				9			0		0		2		0	//Brass Helm
+8			8		8				9			0		0		2		0	//Brass Armor
+9			8		8				9			0		0		2		0	//Brass Pants
+10			8		8				9			0		0		2		0	//Brass Gloves
+11			8		8				9			0		0		2		0	//Brass Boots
+7			9		8				9			0		0		2		0	//Plate Helm
+8			9		8				9			0		0		2		0	//Plate Armor
+9			9		8				9			0		0		2		0	//Plate Pants
+10			9		8				9			0		0		2		0	//Plate Gloves
+11			9		8				9			0		0		2		0	//Plate Boots
+7			13		8				9			0		0		2		0	//Spirit Helm
+8			13		8				9			0		0		2		0	//Spirit Armor
+9			13		8				9			0		0		2		0	//Spirit Pants
+10			13		8				9			0		0		2		0	//Spirit Gloves
+11			13		8				9			0		0		2		0	//Spirit Boots
+7			14		8				9			0		0		2		0	//Guardian Helm
+8			14		8				9			0		0		2		0	//Guardian Armor
+9			14		8				9			0		0		2		0	//Guardian Pants
+10			14		8				9			0		0		2		0	//Guardian Gloves
+11			14		8				9			0		0		2		0	//Guardian Boots
+7			34		8				9			0		0		2		0	//Ashcrow Helm
+8			34		8				9			0		0		2		0	//Ashcrow Armor
+9			34		8				9			0		0		2		0	//Ashcrow Pants
+10			34		8				9			0		0		2		0	//Ashcrow Gloves
+11			34		8				9			0		0		2		0	//Ashcrow Boots
+7			35		8				9			0		0		2		0	//Eclipse Helm
+8			35		8				9			0		0		2		0	//Eclipse Armor
+9			35		8				9			0		0		2		0	//Eclipse Pants
+10			35		8				9			0		0		2		0	//Eclipse Gloves
+11			35		8				9			0		0		2		0	//Eclipse Boots
+7			36		8				9			0		0		2		0	//Iris Helm
+8			36		8				9			0		0		2		0	//Iris Armor
+9			36		8				9			0		0		2		0	//Iris Pants
+10			36		8				9			0		0		2		0	//Iris Gloves
+11			36		8				9			0		0		2		0	//Iris Boots
+7			41		8				9			0		0		2		0	//Ancient Helm
+8			41		8				9			0		0		2		0	//Ancient Armor
+9			41		8				9			0		0		2		0	//Ancient Pants
+10			41		8				9			0		0		2		0	//Ancient Gloves
+11			41		8				9			0		0		2		0	//Ancient Boots
+
+7			1		8				9			0		0		3		0	//Dragon Helm
+8			1		8				9			0		0		3		0	//Dragon Armor
+9			1		8				9			0		0		3		0	//Dragon Pants
+10			1		8				9			0		0		3		0	//Dragon Gloves
+11			1		8				9			0		0		3		0	//Dragon Boots
+7			3		8				9			0		0		3		0	//Legendary Helm
+8			3		8				9			0		0		3		0	//Legendary Armor
+9			3		8				9			0		0		3		0	//Legendary Pants
+10			3		8				9			0		0		3		0	//Legendary Gloves
+11			3		8				9			0		0		3		0	//Legendary Boots
+7			6		8				9			0		0		3		0	//Scale Helm
+8			6		8				9			0		0		3		0	//Scale Armor
+9			6		8				9			0		0		3		0	//Scale Pants
+10			6		8				9			0		0		3		0	//Scale Gloves
+11			6		8				9			0		0		3		0	//Scale Boots
+7			8		8				9			0		0		3		0	//Brass Helm
+8			8		8				9			0		0		3		0	//Brass Armor
+9			8		8				9			0		0		3		0	//Brass Pants
+10			8		8				9			0		0		3		0	//Brass Gloves
+11			8		8				9			0		0		3		0	//Brass Boots
+7			9		8				9			0		0		3		0	//Plate Helm
+8			9		8				9			0		0		3		0	//Plate Armor
+9			9		8				9			0		0		3		0	//Plate Pants
+10			9		8				9			0		0		3		0	//Plate Gloves
+11			9		8				9			0		0		3		0	//Plate Boots
+7			13		8				9			0		0		3		0	//Spirit Helm
+8			13		8				9			0		0		3		0	//Spirit Armor
+9			13		8				9			0		0		3		0	//Spirit Pants
+10			13		8				9			0		0		3		0	//Spirit Gloves
+11			13		8				9			0		0		3		0	//Spirit Boots
+7			14		8				9			0		0		3		0	//Guardian Helm
+8			14		8				9			0		0		3		0	//Guardian Armor
+9			14		8				9			0		0		3		0	//Guardian Pants
+10			14		8				9			0		0		3		0	//Guardian Gloves
+11			14		8				9			0		0		3		0	//Guardian Boots
+7			34		8				9			0		0		3		0	//Ashcrow Helm
+8			34		8				9			0		0		3		0	//Ashcrow Armor
+9			34		8				9			0		0		3		0	//Ashcrow Pants
+10			34		8				9			0		0		3		0	//Ashcrow Gloves
+11			34		8				9			0		0		3		0	//Ashcrow Boots
+7			35		8				9			0		0		3		0	//Eclipse Helm
+8			35		8				9			0		0		3		0	//Eclipse Armor
+9			35		8				9			0		0		3		0	//Eclipse Pants
+10			35		8				9			0		0		3		0	//Eclipse Gloves
+11			35		8				9			0		0		3		0	//Eclipse Boots
+7			36		8				9			0		0		3		0	//Iris Helm
+8			36		8				9			0		0		3		0	//Iris Armor
+9			36		8				9			0		0		3		0	//Iris Pants
+10			36		8				9			0		0		3		0	//Iris Gloves
+11			36		8				9			0		0		3		0	//Iris Boots
+7			41		8				9			0		0		3		0	//Ancient Helm
+8			41		8				9			0		0		3		0	//Ancient Armor
+9			41		8				9			0		0		3		0	//Ancient Pants
+10			41		8				9			0		0		3		0	//Ancient Gloves
+11			41		8				9			0		0		3		0	//Ancient Boots
+
+7			1		8				9			0		1		2		0	//Dragon Helm
+8			1		8				9			0		1		2		0	//Dragon Armor
+9			1		8				9			0		1		2		0	//Dragon Pants
+10			1		8				9			0		1		2		0	//Dragon Gloves
+11			1		8				9			0		1		2		0	//Dragon Boots
+7			3		8				9			0		1		2		0	//Legendary Helm
+8			3		8				9			0		1		2		0	//Legendary Armor
+9			3		8				9			0		1		2		0	//Legendary Pants
+10			3		8				9			0		1		2		0	//Legendary Gloves
+11			3		8				9			0		1		2		0	//Legendary Boots
+7			6		8				9			0		1		2		0	//Scale Helm
+8			6		8				9			0		1		2		0	//Scale Armor
+9			6		8				9			0		1		2		0	//Scale Pants
+10			6		8				9			0		1		2		0	//Scale Gloves
+11			6		8				9			0		1		2		0	//Scale Boots
+7			8		8				9			0		1		2		0	//Brass Helm
+8			8		8				9			0		1		2		0	//Brass Armor
+9			8		8				9			0		1		2		0	//Brass Pants
+10			8		8				9			0		1		2		0	//Brass Gloves
+11			8		8				9			0		1		2		0	//Brass Boots
+7			9		8				9			0		1		2		0	//Plate Helm
+8			9		8				9			0		1		2		0	//Plate Armor
+9			9		8				9			0		1		2		0	//Plate Pants
+10			9		8				9			0		1		2		0	//Plate Gloves
+11			9		8				9			0		1		2		0	//Plate Boots
+7			13		8				9			0		1		2		0	//Spirit Helm
+8			13		8				9			0		1		2		0	//Spirit Armor
+9			13		8				9			0		1		2		0	//Spirit Pants
+10			13		8				9			0		1		2		0	//Spirit Gloves
+11			13		8				9			0		1		2		0	//Spirit Boots
+7			14		8				9			0		1		2		0	//Guardian Helm
+8			14		8				9			0		1		2		0	//Guardian Armor
+9			14		8				9			0		1		2		0	//Guardian Pants
+10			14		8				9			0		1		2		0	//Guardian Gloves
+11			14		8				9			0		1		2		0	//Guardian Boots
+7			34		8				9			0		1		2		0	//Ashcrow Helm
+8			34		8				9			0		1		2		0	//Ashcrow Armor
+9			34		8				9			0		1		2		0	//Ashcrow Pants
+10			34		8				9			0		1		2		0	//Ashcrow Gloves
+11			34		8				9			0		1		2		0	//Ashcrow Boots
+7			35		8				9			0		1		2		0	//Eclipse Helm
+8			35		8				9			0		1		2		0	//Eclipse Armor
+9			35		8				9			0		1		2		0	//Eclipse Pants
+10			35		8				9			0		1		2		0	//Eclipse Gloves
+11			35		8				9			0		1		2		0	//Eclipse Boots
+7			36		8				9			0		1		2		0	//Iris Helm
+8			36		8				9			0		1		2		0	//Iris Armor
+9			36		8				9			0		1		2		0	//Iris Pants
+10			36		8				9			0		1		2		0	//Iris Gloves
+11			36		8				9			0		1		2		0	//Iris Boots
+7			41		8				9			0		1		2		0	//Ancient Helm
+8			41		8				9			0		1		2		0	//Ancient Armor
+9			41		8				9			0		1		2		0	//Ancient Pants
+10			41		8				9			0		1		2		0	//Ancient Gloves
+11			41		8				9			0		1		2		0	//Ancient Boots
+
+7			1		8				9			0		1		3		0	//Dragon Helm
+8			1		8				9			0		1		3		0	//Dragon Armor
+9			1		8				9			0		1		3		0	//Dragon Pants
+10			1		8				9			0		1		3		0	//Dragon Gloves
+11			1		8				9			0		1		3		0	//Dragon Boots
+7			3		8				9			0		1		3		0	//Legendary Helm
+8			3		8				9			0		1		3		0	//Legendary Armor
+9			3		8				9			0		1		3		0	//Legendary Pants
+10			3		8				9			0		1		3		0	//Legendary Gloves
+11			3		8				9			0		1		3		0	//Legendary Boots
+7			6		8				9			0		1		3		0	//Scale Helm
+8			6		8				9			0		1		3		0	//Scale Armor
+9			6		8				9			0		1		3		0	//Scale Pants
+10			6		8				9			0		1		3		0	//Scale Gloves
+11			6		8				9			0		1		3		0	//Scale Boots
+7			8		8				9			0		1		3		0	//Brass Helm
+8			8		8				9			0		1		3		0	//Brass Armor
+9			8		8				9			0		1		3		0	//Brass Pants
+10			8		8				9			0		1		3		0	//Brass Gloves
+11			8		8				9			0		1		3		0	//Brass Boots
+7			9		8				9			0		1		3		0	//Plate Helm
+8			9		8				9			0		1		3		0	//Plate Armor
+9			9		8				9			0		1		3		0	//Plate Pants
+10			9		8				9			0		1		3		0	//Plate Gloves
+11			9		8				9			0		1		3		0	//Plate Boots
+7			13		8				9			0		1		3		0	//Spirit Helm
+8			13		8				9			0		1		3		0	//Spirit Armor
+9			13		8				9			0		1		3		0	//Spirit Pants
+10			13		8				9			0		1		3		0	//Spirit Gloves
+11			13		8				9			0		1		3		0	//Spirit Boots
+7			14		8				9			0		1		3		0	//Guardian Helm
+8			14		8				9			0		1		3		0	//Guardian Armor
+9			14		8				9			0		1		3		0	//Guardian Pants
+10			14		8				9			0		1		3		0	//Guardian Gloves
+11			14		8				9			0		1		3		0	//Guardian Boots
+7			34		8				9			0		1		3		0	//Ashcrow Helm
+8			34		8				9			0		1		3		0	//Ashcrow Armor
+9			34		8				9			0		1		3		0	//Ashcrow Pants
+10			34		8				9			0		1		3		0	//Ashcrow Gloves
+11			34		8				9			0		1		3		0	//Ashcrow Boots
+7			35		8				9			0		1		3		0	//Eclipse Helm
+8			35		8				9			0		1		3		0	//Eclipse Armor
+9			35		8				9			0		1		3		0	//Eclipse Pants
+10			35		8				9			0		1		3		0	//Eclipse Gloves
+11			35		8				9			0		1		3		0	//Eclipse Boots
+7			36		8				9			0		1		3		0	//Iris Helm
+8			36		8				9			0		1		3		0	//Iris Armor
+9			36		8				9			0		1		3		0	//Iris Pants
+10			36		8				9			0		1		3		0	//Iris Gloves
+11			36		8				9			0		1		3		0	//Iris Boots
+7			41		8				9			0		1		3		0	//Ancient Helm
+8			41		8				9			0		1		3		0	//Ancient Armor
+9			41		8				9			0		1		3		0	//Ancient Pants
+10			41		8				9			0		1		3		0	//Ancient Gloves
+11			41		8				9			0		1		3		0	//Ancient Boots
+
+//exes rings y pendants
+
+13			25		0				0			0		0		0		1	//Pendant of Ice  
+13			26		0				0			0		0		0		1	//Pendant of Wind 
+13			27		0				0			0		0		0		1	//Pendant of Water 
+13			28		0				0			0		0		0		1	//Pendant of Ability
+13			21		0				0			0		0		0		1	//Ring of Fire 
+13			22		0				0			0		0		0		1	//Ring of Earth 
+13			23		0				0			0		0		0		1	//Ring of Wind  
+13			24		0				0			0		0		0		1	//Ring of Magic  
+
+13			25		0				0			0		0		2		2	//Pendant of Ice  
+13			26		0				0			0		0		2		2	//Pendant of Wind 
+13			27		0				0			0		0		2		2	//Pendant of Water 
+13			28		0				0			0		0		2		2	//Pendant of Ability
+13			21		0				0			0		0		2		2	//Ring of Fire 
+13			22		0				0			0		0		2		2	//Ring of Earth 
+13			23		0				0			0		0		2		2	//Ring of Wind  
+13			24		0				0			0		0		2		2	//Ring of Magic 
+
+//Jewels
+//Jewel of Chaos
+//Jewel of Soul
+//Jewel of Bless
+//Jewel of Life
+//Jewel of Creation
+//Jewel of Harmony
+//Blades
+//Excellent Lightning Sword
+//Excellent Sword of Destruction
+//Excellent Crystal Sword
+//Excellent Rune Blade
+//Excellent Crystal Morning Star
+//Excellent Elemental Mace
+//Excellent Bill of Balrog
+//Bows
+//Excellent Silver Bow
+//Excellent Aquagold Crossbow
+//Excellent Saint's Crossbow
+//Wizardry
+//Excellent Legendary Staff
+//Excellent Staff of Destruction
+//Excellent Resurrection
+//Excellent Master Scepter
+//Excellent Great Scepter
+//Excellent Violent Wind Stick
+//Excellent Book of Samut
+//Armor
+//Excellent Ashcrow Helm, Armor, Pants, Boots, Gloves
+//Excellent Eclipse Helm, Armor, Pants, Boots, Gloves
+//Excellent Iris Helm, Armor, Pants, Boots, Gloves
+//Excellent Atlans Helm, Armor, Pants, Boots, Gloves
+//Excellent Adamantine Helm, Armor, Pants, Boots, Gloves
+//Excellent Light Plate Helm, Armor, Pants, Boots, Gloves
+//Excellent Red Wing Helm, Armor, Pants, Boots, Gloves
+//Sheilds
+//Excellent Dragon Shield
+//Excellent Legendary Shield
+//Excellent Serpent Shield
+//Others
+//Excellent Rings (any)
+//Excellent Pendants (any)
+//Devil's Invitation +1, +2
+//Cloak of Invisibility +1, +2, +3
+//Lost Map +1, +2
+end

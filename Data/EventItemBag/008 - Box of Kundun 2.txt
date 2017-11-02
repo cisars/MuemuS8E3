@@ -1,0 +1,633 @@
+0
+//EventName              	DropZen		ItemDropRate   	ItemDropCount	SetItemDropRate		ItemDropType	Fireworks	
+"Box of Kundun 2"	 		75000		10		 		1		  		0		    		0				0
+end
+
+1
+//Section   Type   MinLevel   	MaxLevel   		Skill	Luck   Option   Excellent
+ 
+12			15		0				0			0		0		0		0  	//Chaos
+14			13		0				0			0		0		0		0  	//Bless
+14			14		0				0			0		0		0		0  	//Soul
+14			16		0				0			0		0		0		0  	//Life
+14			22		0				0			0		0		0		0  	//Creation
+14			42		0				0			0		0		0		0  	//Harmony
+//principales
+8			1		0				0			0		0		0		1	//Dragon Armor
+9			1		0				0			0		0		0		1	//Dragon Pants
+8			3		0				0			0		0		0		1	//Legendary Armor
+9			3		0				0			0		0		0		1	//Legendary Pants
+8			14		0				0			0		0		0		1	//Guardian Armor
+9			14		0				0			0		0		0		1	//Guardian Pants 
+8			41		0				0			0		0		0		1	//Ancient Armor
+9			41		0				0			0		0		0		1	//Ancient Pants 
+8			41		0				0			0		0		0		1	//Storm Crow Armor
+9			41		0				0			0		0		0		1	//Storm Crow Pants
+8			26		0				0			0		0		0		1	//Adamantine Armor
+9			26		0				0			0		0		0		1	//Adamantine Pants
+8			60		0				0			0		0		0		1  	//Holy Storm Armor 
+9			60		0				0			0		0		0		1  	//Holy Storm Pants 
+0			33		0				0			1		0		0		1  	//Holy Storm Claws 
+
+8			1		0				0			0		0		0		2	//Dragon Armor
+9			1		0				0			0		0		0		2	//Dragon Pants
+8			3		0				0			0		0		0		2	//Legendary Armor
+9			3		0				0			0		0		0		2	//Legendary Pants
+8			14		0				0			0		0		0		2	//Guardian Armor
+9			14		0				0			0		0		0		2	//Guardian Pants  
+8			41		0				0			0		0		0		2	//Ancient Armor
+9			41		0				0			0		0		0		2	//Ancient Pants 
+8			41		0				0			0		0		0		2	//Storm Crow Armor
+9			41		0				0			0		0		0		2	//Storm Crow Pants
+8			26		0				0			0		0		0		2	//Adamantine Armor
+9			26		0				0			0		0		0		2	//Adamantine Pants
+8			60		0				0			0		0		0		2  	//Holy Storm Armor 
+9			60		0				0			0		0		0		2  	//Holy Storm Pants 
+0			33		0				0			1		0		0		2  	//Holy Storm Claws 
+
+8			1		0				0			0		1		0		2	//Dragon Armor
+9			1		0				0			0		1		0		2	//Dragon Pants
+8			3		0				0			0		1		0		2	//Legendary Armor
+9			3		0				0			0		1		0		2	//Legendary Pants
+8			14		0				0			0		1		0		2	//Guardian Armor
+9			14		0				0			0		1		0		2	//Guardian Pants 
+8			41		0				0			0		1		0		2	//Ancient Armor
+9			41		0				0			0		1		0		2	//Ancient Pants 
+8			41		0				0			0		1		0		2	//Storm Crow Armor
+9			41		0				0			0		1		0		2	//Storm Crow Pants
+8			26		0				0			0		1		0		2	//Adamantine Armor
+9			26		0				0			0		1		0		2	//Adamantine Pants
+8			60		0				0			0		1		0		2 	//Holy Storm Armor 
+9			60		0				0			0		1		0		2 	//Holy Storm Pants 
+0			33		0				0			1		1		0		2 	//Holy Storm Claws 
+
+// sets exes extremidades 1 opt
+7			1		0				0			0		0		0		1	//Dragon Helm
+10			1		0				0			0		0		0		1	//Dragon Gloves
+11			1		0				0			0		0		0		1	//Dragon Boots
+7			3		0				0			0		0		0		1	//Legendary Helm
+10			3		0				0			0		0		0		1	//Legendary Gloves
+11			3		0				0			0		0		0		1	//Legendary Boots 
+7			14		0				0			0		0		0		1	//Guardian Helm
+10			14		0				0			0		0		0		1	//Guardian Gloves
+11			14		0				0			0		0		0		1	//Guardian Boots 
+7			41		0				0			0		0		0		1	//Ancient Helm
+10			41		0				0			0		0		0		1	//Ancient Gloves
+11			41		0				0			0		0		0		1	//Ancient Boots
+10			15		0				0			0		0		0		1	//Storm Crow Gloves
+11			15		0				0			0		0		0		1	//Storm Crow Boots
+7			26		0				0			0		0		0		1	//Adamantine Helm
+10			26		0				0			0		0		0		1	//Adamantine Gloves
+11			26		0				0			0		0		0		1	//Adamantine Boots 
+
+
+// sets exes extremidades 2 opt
+7			1		0				0			0		0		0		2	//Dragon Helm
+10			1		0				0			0		0		0		2	//Dragon Gloves
+11			1		0				0			0		0		0		2	//Dragon Boots
+7			3		0				0			0		0		0		2	//Legendary Helm
+10			3		0				0			0		0		0		2	//Legendary Gloves
+11			3		0				0			0		0		0		2	//Legendary Boots 
+7			14		0				0			0		0		0		2	//Guardian Helm
+10			14		0				0			0		0		0		2	//Guardian Gloves
+11			14		0				0			0		0		0		2	//Guardian Boots 
+7			41		0				0			0		0		0		2	//Ancient Helm
+10			41		0				0			0		0		0		2	//Ancient Gloves
+11			41		0				0			0		0		0		2	//Ancient Boots
+10			15		0				0			0		0		0		2	//Storm Crow Gloves
+11			15		0				0			0		0		0		2	//Storm Crow Boots
+7			26		0				0			0		0		0		2	//Adamantine Helm
+10			26		0				0			0		0		0		2	//Adamantine Gloves
+11			26		0				0			0		0		0		2	//Adamantine Boots 
+// sets exes extremidades con luck
+7			1		0				0			0		1		0		2	//Dragon Helm
+10			1		0				0			0		1		0		2	//Dragon Gloves
+11			1		0				0			0		1		0		2	//Dragon Boots
+7			3		0				0			0		1		0		2	//Legendary Helm
+10			3		0				0			0		1		0		2	//Legendary Gloves
+11			3		0				0			0		1		0		2	//Legendary Boots 
+7			14		0				0			0		1		0		2	//Guardian Helm
+10			14		0				0			0		1		0		2	//Guardian Gloves
+11			14		0				0			0		1		0		2	//Guardian Boots 
+7			41		0				0			0		1		0		2	//Ancient Helm
+10			41		0				0			0		1		0		2	//Ancient Gloves
+11			41		0				0			0		1		0		2	//Ancient Boots
+10			15		0				0			0		1		0		2	//Storm Crow Gloves
+11			15		0				0			0		1		0		2	//Storm Crow Boots
+7			26		0				0			0		1		0		2	//Adamantine Helm
+10			26		0				0			0		1		0		2	//Adamantine Gloves
+11			26		0				0			0		1		0		2	//Adamantine Boots 
+
+
+// principales
+8			4		0				0			0		0		0		1 	//Bone 		Armor
+9			4		0				0			0		0		0		1 	//Bone 		Pants 
+8			7		0				0			0		0		0		1 	//Sphinx Armor
+9			7		0				0			0		0		0		1 	//Sphinx Pants
+8			13		0				0			0		0		0		1	//Spirit Armor
+9			13		0				0			0		0		0		1	//Spirit Pants
+8			12		0				0			0		0		0		1 	//Wind Armor
+9			12		0				0			0		0		0		1 	//Wind Pants
+8			6		0				0			0		0		0		1	//Scale Armor
+9			6		0				0			0		0		0		1	//Scale Pants
+8			8		0				0			0		0		0		1	//Brass Armor
+9			8		0				0			0		0		0		1	//Brass Pants
+8			9		0				0			0		0		0		1	//Plate Armor   
+9			9		0				0			0		0		0		1	//Plate Pants   
+8			25		0				0			0		0		0		1	//Light Plate Armor  
+9			25		0				0			0		0		0		1	//Light Plate Pants  
+8			40		0				0			0		0		0		1  	//Red Wing Armor 
+9			40		0				0			0		0		0		1  	//Red Wing Pants  
+8			59		0				0			0		0		0		1  	//Sacred Armor
+9			59		0				0			0		0		0		1  	//Sacred Pants 
+0			32		0				0			1		0		0		1  	//Sacred Gloves Fire  
+
+8			4		0				0			0		0		0		2 	//Bone 		Armor
+9			4		0				0			0		0		0		2 	//Bone 		Pants 
+8			7		0				0			0		0		0		2 	//Sphinx Armor
+9			7		0				0			0		0		0		2 	//Sphinx Pants
+8			13		0				0			0		0		0		2	//Spirit Armor
+9			13		0				0			0		0		0		2	//Spirit Pants
+8			12		0				0			0		0		0		2 	//Wind Armor
+9			12		0				0			0		0		0		2 	//Wind Pants
+8			6		0				0			0		0		0		2	//Scale Armor
+9			6		0				0			0		0		0		2	//Scale Pants
+8			8		0				0			0		0		0		2	//Brass Armor
+9			8		0				0			0		0		0		2	//Brass Pants
+8			9		0				0			0		0		0		2	//Plate Armor   
+9			9		0				0			0		0		0		2	//Plate Pants   
+8			25		0				0			0		0		0		2	//Light Plate Armor  
+9			25		0				0			0		0		0		2	//Light Plate Pants  
+8			40		0				0			0		0		0		2  	//Red Wing Armor 
+9			40		0				0			0		0		0		2  	//Red Wing Pants   
+8			59		0				0			0		0		0		2  	//Sacred Armor
+9			59		0				0			0		0		0		2  	//Sacred Pants 
+0			32		0				0			1		0		0		2  	//Sacred Gloves Fire  
+
+8			7		0				0			0		1		0		2 	//Sphinx Armor
+9			7		0				0			0		1		0		2 	//Sphinx Pants
+8			13		0				0			0		1		0		2	//Spirit Armor
+9			13		0				0			0		1		0		2	//Spirit Pants
+8			12		0				0			0		1		0		2 	//Wind Armor
+9			12		0				0			0		1		0		2 	//Wind Pants
+8			6		0				0			0		1		0		2	//Scale Armor
+9			6		0				0			0		1		0		2	//Scale Pants
+8			8		0				0			0		1		0		2	//Brass Armor
+9			8		0				0			0		1		0		2	//Brass Pants
+8			9		0				0			0		1		0		2	//Plate Armor   
+9			9		0				0			0		1		0		2	//Plate Pants   
+8			25		0				0			0		1		0		2	//Light Plate Armor  
+9			25		0				0			0		1		0		2	//Light Plate Pants  
+8			40		0				0			0		1		0		2  	//Red Wing Armor 
+9			40		0				0			0		1		0		2  	//Red Wing Pants   
+8			59		0				0			0		1		0		2  	//Sacred Armor
+9			59		0				0			0		1		0		2  	//Sacred Pants 
+0			32		0				0			1		1		0		2  	//Sacred Gloves Fire  
+
+ 
+// Exe 1 opt sin luck
+7			7		0				0			0		0		0		1 	//Sphinx Helm
+10			7		0				0			0		0		0		1 	//Sphinx Gloves
+11			7		0				0			0		0		0		1 	//Sphinx Boots
+7			11		0				0			0		0		0		1 	//Silk Helm
+8			11		0				0			0		0		0		1 	//Silk Armor
+9			11		0				0			0		0		0		1 	//Silk Pants
+10			11		0				0			0		0		0		1 	//Silk Gloves
+11			11		0				0			0		0		0		1 	//Silk Boots
+7			12		0				0			0		0		0		1 	//Wind Helm
+10			12		0				0			0		0		0		1 	//Wind Gloves
+11			12		0				0			0		0		0		1 	//Wind Boots
+7			13		0				0			0		0		0		1	//Spirit Helm
+10			13		0				0			0		0		0		1	//Spirit Gloves
+11			13		0				0			0		0		0		1	//Spirit Boots
+7			6		0				0			0		0		0		1	//Scale Helm 
+10			6		0				0			0		0		0		1	//Scale Gloves
+11			6		0				0			0		0		0		1	//Scale Boots
+7			8		0				0			0		0		0		1	//Brass Helm 
+10			8		0				0			0		0		0		1	//Brass Gloves
+11			8		0				0			0		0		0		1	//Brass Boots 
+7			9		0				0			0		0		0		1	//Plate Helm  
+10			9		0				0			0		0		0		1	//Plate Gloves  
+11			9		0				0			0		0		0		1	//Plate Boots  
+7			25		0				0			0		0		0		1	//Light Plate Helm  
+10			25		0				0			0		0		0		1	//Light Plate Gloves  
+11			25		0				0			0		0		0		1	//Light Plate Boots  
+7			40		0				0			0		0		0		1  	//Red Wing Helm 
+10			40		0				0			0		0		0		1  	//Red Wing Gloves 
+11			40		0				0			0		0		0		1  	//Red Wing Boots
+7			59		0				0			0		0		0		1  	//Sacred Helm
+11			59		0				0			0		0		0		1  	//Sacred Boots  
+
+// Exe 2 opt sin luck 
+8			4		0				0			0		0		0		2 	//Bone 		Armor
+9			4		0				0			0		0		0		2 	//Bone 		Pants 
+7			7		0				0			0		0		0		2 	//Sphinx 	Helm 
+10			7		0				0			0		0		0		2 	//Sphinx 	Gloves
+11			7		0				0			0		0		0		2 	//Sphinx 	Boots
+7			11		0				0			0		0		0		2 	//Silk 		Helm
+8			11		0				0			0		0		0		2 	//Silk 		Armor
+9			11		0				0			0		0		0		2 	//Silk 		Pants
+10			11		0				0			0		0		0		2 	//Silk 		Gloves
+11			11		0				0			0		0		0		2 	//Silk 		Boots
+7			12		0				0			0		0		0		2 	//Wind 		Helm 
+10			12		0				0			0		0		0		2 	//Wind 		Gloves
+11			12		0				0			0		0		0		2 	//Wind 		Boots
+7			13		0				0			0		0		0		2	//Spirit Helm
+10			13		0				0			0		0		0		2	//Spirit Gloves
+11			13		0				0			0		0		0		2	//Spirit Boots
+7			6		0				0			0		0		0		2	//Scale Helm
+10			6		0				0			0		0		0		2	//Scale Gloves
+11			6		0				0			0		0		0		2	//Scale Boots
+7			8		0				0			0		0		0		2	//Brass Helm 
+10			8		0				0			0		0		0		2	//Brass Gloves
+11			8		0				0			0		0		0		2	//Brass Boots
+7			9		0				0			0		0		0		2	//Plate Helm    
+10			9		0				0			0		0		0		2	//Plate Gloves  
+11			9		0				0			0		0		0		2	//Plate Boots   
+7			25		0				0			0		0		0		2	//Light Plate Helm   
+10			25		0				0			0		0		0		2	//Light Plate Gloves 
+11			25		0				0			0		0		0		2	//Light Plate Boots 
+7			40		0				0			0		0		0		2  	//Red Wing Helm  
+10			40		0				0			0		0		0		2  	//Red Wing Gloves 
+11			40		0				0			0		0		0		2  	//Red Wing Boots
+7			59		0				0			0		0		0		2  	//Sacred Helm
+11			59		0				0			0		0		0		2  	//Sacred Boots  
+// Exe  luck 
+8			4		0				0			0		1		0		2 	//Bone 		Armor
+9			4		0				0			0		1		0		2 	//Bone 		Pants 
+7			7		0				0			0		1		0		2 	//Sphinx 	Helm 
+10			7		0				0			0		1		0		2 	//Sphinx 	Gloves
+11			7		0				0			0		1		0		2 	//Sphinx 	Boots
+7			11		0				0			0		1		0		2 	//Silk 		Helm
+8			11		0				0			0		1		0		2 	//Silk 		Armor
+9			11		0				0			0		1		0		2 	//Silk 		Pants
+10			11		0				0			0		1		0		2 	//Silk 		Gloves
+11			11		0				0			0		1		0		2 	//Silk 		Boots
+7			12		0				0			0		1		0		2 	//Wind 		Helm 
+10			12		0				0			0		1		0		2 	//Wind 		Gloves
+11			12		0				0			0		1		0		2 	//Wind 		Boots
+7			13		0				0			0		1		0		2	//Spirit Helm
+10			13		0				0			0		1		0		2	//Spirit Gloves
+11			13		0				0			0		1		0		2	//Spirit Boots
+7			6		0				0		  	0		1		0		2	//Scale Helm 
+10			6		0				0			0		1		0		2	//Scale Gloves
+11			6		0				0			0		1		0		2	//Scale Boots
+7			8		0				0			0		1		0		2	//Brass Helm
+10			8		0				0			0		1		0		2	//Brass Gloves
+11			8		0				0			0		1		0		2	//Brass Boots
+7			9		0				0			0		1		0		2	//Plate Helm    
+10			9		0				0			0		1		0		2	//Plate Gloves  
+11			9		0				0			0		1		0		2	//Plate Boots   
+7			25		0				0			0		1		0		2	//Light Plate Helm   
+10			25		0				0			0		1		0		2	//Light Plate Gloves 
+11			25		0				0			0		1		0		2	//Light Plate Boots 
+7			40		0				0			0		1		0		2  	//Red Wing Helm  
+10			40		0				0			0		1		0		2  	//Red Wing Gloves 
+11			40		0				0			0		1		0		2  	//Red Wing Boots
+7			59		0				0			0		1		0		2  	//Sacred Helm
+11			59		0				0			0		1		0		2  	//Sacred Boots  
+// armas exe 1 opt 
+0			14		0				0			0		0		0		1  	//Lightning Sword
+0			15		0				0			0		0		0		1  	//Giant Sword
+5           15		0				0			0       0		0		1   //Violent wind staff 
+6           6		0				0			0       0		0		1   //Skull Shield
+6           7		0				0			0       0		0		1   //Spike Shield
+6           8		0				0			0       0		0		1   //Tower Shield
+5           3		0				0			0       0		0		1   //thunder staff 
+5           4		0				0			0       0		0		1   //Gorgon staff 
+4           4		0				0			1       0		0		1   //Tiger Bow	 
+4           11		0				0			1       0		0		1   //Light Crossbow	
+// armas exe 2 opt 
+0			14		0				0			0		0		0		2  	//Lightning Sword
+0			15		0				0			0		0		0		2  	//Giant Sword
+5           15		0				0			0       0		0		2   //Violent wind staff 
+6           6		0				0			0       0		0		2   //Skull Shield
+6           7		0				0			0       0		0		2   //Spike Shield
+6           8		0				0			0       0		0		2   //Tower Shield
+5           3		0				0			0       0		0		2   //thunder staff 
+5           4		0				0			0       0		0		2   //Gorgon staff 
+4           4		0				0			1       0		0		2   //Tiger Bow	 
+4           11		0				0			1       0		0		2   //Light Crossbow	  
+// armas exe luck
+//0			14		0				0			0		1		0		2  	//Lightning Sword
+//0			15		0				0			0		1		0		2  	//Giant Sword
+//5           15		0				0			0       1		0		2   //Violent wind staff 
+//6           6		0				0			0       1		0		2   //Skull Shield
+//6           7		0				0			0       1		0		2   //Spike Shield
+//6           8		0				0			0       1		0		2   //Tower Shield
+//5           3		0				0			0       1		0		2   //thunder staff 
+//5           4		0				0			0       1		0		2   //Gorgon staff 
+//4           4		0				0			1       1		0		2   //Tiger Bow	 
+//4           11		0				0			1       1		0		2   //Light Crossbow	
+//   
+//7			19		7				9			0		0		0		0	//Holy Spirit Helm
+//10			19		7				9			0		0		0		0	//Holy Spirit Gloves
+//11			19		7				9			0		0		0		0	//Holy Spirit Boots
+//7			18		7				9			0		0		0		0	//Grand Soul Helm
+//10			18		7				9			0		0		0		0	//Grand Soul Gloves
+//11			18		7				9			0		0		0		0	//Grand Soul Boots
+//7			16		7				9			0		0		0		0	//Black Dragon Helm
+//10			16		7				9			0		0		0		0	//Black Dragon Gloves
+//11			16		7				9			0		0		0		0	//Black Dragon Boots
+//7			17		7				9			0		0		0		0	//Phoenix Helm
+//10			17		7				9			0		0		0		0	//Phoenix Gloves
+//11			17		7				9			0		0		0		0	//Phoenix Boots
+//7			42		7				9			0		0		0		0	//Black Rose Helm
+//10			42		7				9			0		0		0		0	//Black Rose Gloves
+//11			42		7				9			0		0		0		0	//Black Rose Boots
+//7			27		7				9			0		0		0		0	//Dark Steel Helm
+//10			27		7				9			0		0		0		0	//Dark Steel Gloves
+//11			27		7				9			0		0		0		0	//Dark Steel Boots
+//10			20		7				9			0		0		0		0	//Thunder Gloves
+//11			20		7				9			0		0		0		0	//Thunder Boots
+//
+//7			19		7				9			0		0		1		0	//Holy Spirit Helm
+//10			19		7				9			0		0		1		0	//Holy Spirit Gloves
+//11			19		7				9			0		0		1		0	//Holy Spirit Boots
+//7			18		7				9			0		0		1		0	//Grand Soul Helm
+//10			18		7				9			0		0		1		0	//Grand Soul Gloves
+//11			18		7				9			0		0		1		0	//Grand Soul Boots
+//7			16		7				9			0		0		1		0	//Black Dragon Helm
+//10			16		7				9			0		0		1		0	//Black Dragon Gloves
+//11			16		7				9			0		0		1		0	//Black Dragon Boots
+//7			17		7				9			0		0		1		0	//Phoenix Helm
+//10			17		7				9			0		0		1		0	//Phoenix Gloves
+//11			17		7				9			0		0		1		0	//Phoenix Boots
+//7			42		7				9			0		0		1		0	//Black Rose Helm
+//10			42		7				9			0		0		1		0	//Black Rose Gloves
+//11			42		7				9			0		0		1		0	//Black Rose Boots
+//7			27		7				9			0		0		1		0	//Dark Steel Helm
+//10			27		7				9			0		0		1		0	//Dark Steel Gloves
+//11			27		7				9			0		0		1		0	//Dark Steel Boots
+//10			20		7				9			0		0		1		0	//Thunder Gloves
+//11			20		7				9			0		0		1		0	//Thunder Boots
+//
+//7			19		7				9			0		0		2		0	//Holy Spirit Helm
+//10			19		7				9			0		0		2		0	//Holy Spirit Gloves
+//11			19		7				9			0		0		2		0	//Holy Spirit Boots
+//7			18		7				9			0		0		2		0	//Grand Soul Helm
+//10			18		7				9			0		0		2		0	//Grand Soul Gloves
+//11			18		7				9			0		0		2		0	//Grand Soul Boots
+//7			16		7				9			0		0		2		0	//Black Dragon Helm
+//10			16		7				9			0		0		2		0	//Black Dragon Gloves
+//11			16		7				9			0		0		2		0	//Black Dragon Boots
+//7			17		7				9			0		0		2		0	//Phoenix Helm
+//10			17		7				9			0		0		2		0	//Phoenix Gloves
+//11			17		7				9			0		0		2		0	//Phoenix Boots
+//7			42		7				9			0		0		2		0	//Black Rose Helm
+//10			42		7				9			0		0		2		0	//Black Rose Gloves
+//11			42		7				9			0		0		2		0	//Black Rose Boots
+//7			27		7				9			0		0		2		0	//Dark Steel Helm
+//10			27		7				9			0		0		2		0	//Dark Steel Gloves
+//11			27		7				9			0		0		2		0	//Dark Steel Boots
+//10			20		7				9			0		0		2		0	//Thunder Gloves
+//11			20		7				9			0		0		2		0	//Thunder Boots
+//
+//7			19		7				9			0		0		3		0	//Holy Spirit Helm
+//10			19		7				9			0		0		3		0	//Holy Spirit Gloves
+//11			19		7				9			0		0		3		0	//Holy Spirit Boots
+//7			18		7				9			0		0		3		0	//Grand Soul Helm
+//10			18		7				9			0		0		3		0	//Grand Soul Gloves
+//11			18		7				9			0		0		3		0	//Grand Soul Boots
+//7			16		7				9			0		0		3		0	//Black Dragon Helm
+//10			16		7				9			0		0		3		0	//Black Dragon Gloves
+//11			16		7				9			0		0		3		0	//Black Dragon Boots
+//7			17		7				9			0		0		3		0	//Phoenix Helm
+//10			17		7				9			0		0		3		0	//Phoenix Gloves
+//11			17		7				9			0		0		3		0	//Phoenix Boots
+//7			42		7				9			0		0		3		0	//Black Rose Helm
+//10			42		7				9			0		0		3		0	//Black Rose Gloves
+//11			42		7				9			0		0		3		0	//Black Rose Boots
+//7			27		7				9			0		0		3		0	//Dark Steel Helm
+//10			27		7				9			0		0		3		0	//Dark Steel Gloves
+//11			27		7				9			0		0		3		0	//Dark Steel Boots
+//10			20		7				9			0		0		3		0	//Thunder Gloves
+//11			20		7				9			0		0		3		0	//Thunder Boots
+//
+//7			19		7				9			0		1		1		0	//Holy Spirit Helm
+//10			19		7				9			0		1		1		0	//Holy Spirit Gloves
+//11			19		7				9			0		1		1		0	//Holy Spirit Boots
+//7			18		7				9			0		1		1		0	//Grand Soul Helm
+//10			18		7				9			0		1		1		0	//Grand Soul Gloves
+//11			18		7				9			0		1		1		0	//Grand Soul Boots
+//7			16		7				9			0		1		1		0	//Black Dragon Helm
+//10			16		7				9			0		1		1		0	//Black Dragon Gloves
+//11			16		7				9			0		1		1		0	//Black Dragon Boots
+//7			17		7				9			0		1		1		0	//Phoenix Helm
+//10			17		7				9			0		1		1		0	//Phoenix Gloves
+//11			17		7				9			0		1		1		0	//Phoenix Boots
+//7			42		7				9			0		1		1		0	//Black Rose Helm
+//10			42		7				9			0		1		1		0	//Black Rose Gloves
+//11			42		7				9			0		1		1		0	//Black Rose Boots
+//7			27		7				9			0		1		1		0	//Dark Steel Helm
+//10			27		7				9			0		1		1		0	//Dark Steel Gloves
+//11			27		7				9			0		1		1		0	//Dark Steel Boots
+//10			20		7				9			0		1		1		0	//Thunder Gloves
+//11			20		7				9			0		1		1		0	//Thunder Boots
+//
+//7			19		7				9			0		1		2		0	//Holy Spirit Helm
+//10			19		7				9			0		1		2		0	//Holy Spirit Gloves
+//11			19		7				9			0		1		2		0	//Holy Spirit Boots
+//7			18		7				9			0		1		2		0	//Grand Soul Helm
+//10			18		7				9			0		1		2		0	//Grand Soul Gloves
+//11			18		7				9			0		1		2		0	//Grand Soul Boots
+//7			16		7				9			0		1		2		0	//Black Dragon Helm
+//10			16		7				9			0		1		2		0	//Black Dragon Gloves
+//11			16		7				9			0		1		2		0	//Black Dragon Boots
+//7			17		7				9			0		1		2		0	//Phoenix Helm
+//10			17		7				9			0		1		2		0	//Phoenix Gloves
+//11			17		7				9			0		1		2		0	//Phoenix Boots
+//7			42		7				9			0		1		2		0	//Black Rose Helm
+//10			42		7				9			0		1		2		0	//Black Rose Gloves
+//11			42		7				9			0		1		2		0	//Black Rose Boots
+//7			27		7				9			0		1		2		0	//Dark Steel Helm
+//10			27		7				9			0		1		2		0	//Dark Steel Gloves
+//11			27		7				9			0		1		2		0	//Dark Steel Boots
+//10			20		7				9			0		1		2		0	//Thunder Gloves
+//11			20		7				9			0		1		2		0	//Thunder Boots
+//
+////set normales
+//8			58		7				9			0		0		0		0	//Holy Spirit Armor
+//9			58		7				9			0		0		0		0	//Holy Spirit Pants 
+//8			18		7				9			0		0		0		0	//Grand Soul Armor
+//9			18		7				9			0		0		0		0	//Grand Soul Pants
+//8			16		7				9			0		0		0		0	//Black Dragon Armor
+//9			16		7				9			0		0		0		0	//Black Dragon Pants
+//8			17		7				9			0		0		0		0	//Phoenix Armor
+//9			17		7				9			0		0		0		0	//Phoenix Pants
+//8			42		7				9			0		0		0		0	//Black Rose Armor
+//9			42		7				9			0		0		0		0	//Black Rose Pants
+//8			27		7				9			0		0		0		0	//Dark Steel Armor
+//9			27		7				9			0		0		0		0	//Dark Steel Pants
+//8			20		7				9			0		0		0		0	//Thunder Armor
+//9			20		7				9			0		0		0		0	//Thunder Pants
+// 
+//8			58		7				9			0		0		1		0	//Holy Spirit Armor
+//9			58		7				9			0		0		1		0	//Holy Spirit Pants 
+//8			18		7				9			0		0		1		0	//Grand Soul Armor
+//9			18		7				9			0		0		1		0	//Grand Soul Pants
+//8			16		7				9			0		0		1		0	//Black Dragon Armor
+//9			16		7				9			0		0		1		0	//Black Dragon Pants
+//8			17		7				9			0		0		1		0	//Phoenix Armor
+//9			17		7				9			0		0		1		0	//Phoenix Pants
+//8			42		7				9			0		0		1		0	//Black Rose Armor
+//9			42		7				9			0		0		1		0	//Black Rose Pants
+//8			27		7				9			0		0		1		0	//Dark Steel Armor
+//9			27		7				9			0		0		1		0	//Dark Steel Pants
+//8			20		7				9			0		0		1		0	//Thunder Armor
+//9			20		7				9			0		0		1		0	//Thunder Pants
+//
+//8			58		7				9			0		0		2		0	//Holy Spirit Armor
+//9			58		7				9			0		0		2		0	//Holy Spirit Pants 
+//8			18		7				9			0		0		2		0	//Grand Soul Armor
+//9			18		7				9			0		0		2		0	//Grand Soul Pants
+//8			16		7				9			0		0		2		0	//Black Dragon Armor
+//9			16		7				9			0		0		2		0	//Black Dragon Pants
+//8			17		7				9			0		0		2		0	//Phoenix Armor
+//9			17		7				9			0		0		2		0	//Phoenix Pants
+//8			42		7				9			0		0		2		0	//Black Rose Armor
+//9			42		7				9			0		0		2		0	//Black Rose Pants
+//8			27		7				9			0		0		2		0	//Dark Steel Armor
+//9			27		7				9			0		0		2		0	//Dark Steel Pants
+//8			20		7				9			0		0		2		0	//Thunder Armor
+//9			20		7				9			0		0		2		0	//Thunder Pants
+//
+//8			58		7				9			0		0		3		0	//Holy Spirit Armor
+//9			58		7				9			0		0		3		0	//Holy Spirit Pants 
+//8			18		7				9			0		0		3		0	//Grand Soul Armor
+//9			18		7				9			0		0		3		0	//Grand Soul Pants
+//8			16		7				9			0		0		3		0	//Black Dragon Armor
+//9			16		7				9			0		0		3		0	//Black Dragon Pants
+//8			17		7				9			0		0		3		0	//Phoenix Armor
+//9			17		7				9			0		0		3		0	//Phoenix Pants
+//8			42		7				9			0		0		3		0	//Black Rose Armor
+//9			42		7				9			0		0		3		0	//Black Rose Pants
+//8			27		7				9			0		0		3		0	//Dark Steel Armor
+//9			27		7				9			0		0		3		0	//Dark Steel Pants
+//8			20		7				9			0		0		3		0	//Thunder Armor
+//9			20		7				9			0		0		3		0	//Thunder Pants
+//
+//8			58		7				9			0		1		2		0	//Holy Spirit Armor
+//9			58		7				9			0		1		2		0	//Holy Spirit Pants 
+//8			18		7				9			0		1		2		0	//Grand Soul Armor
+//9			18		7				9			0		1		2		0	//Grand Soul Pants
+//8			16		7				9			0		1		2		0	//Black Dragon Armor
+//9			16		7				9			0		1		2		0	//Black Dragon Pants
+//8			17		7				9			0		1		2		0	//Phoenix Armor
+//9			17		7				9			0		1		2		0	//Phoenix Pants
+//8			42		7				9			0		1		2		0	//Black Rose Armor
+//9			42		7				9			0		1		2		0	//Black Rose Pants
+//8			27		7				9			0		1		2		0	//Dark Steel Armor
+//9			27		7				9			0		1		2		0	//Dark Steel Pants
+//8			20		7				9			0		1		2		0	//Thunder Armor
+//9			20		7				9			0		1		2		0	//Thunder Pants
+//
+//// armas normales
+//5			9		7				9			0		0		0		0	//Dragon Soul Staff  
+//5			21		7				9			1		0		0		0	//Book of Sahamutt  
+//0			16		7				9			1		0		0		0	//Sword of Destruction  
+//3			10		7				9			1		0		0		0	//Dragon Spear
+//0			18		7				9			1		0		0		0	//Thunder Blade  
+//4			16		7				9			1		0		0		0	//Saint Crossbow
+//
+//5			9		7				9			0		0		1		0	//Dragon Soul Staff  
+//5			21		7				9			1		0		1		0	//Book of Sahamutt  
+//0			16		7				9			1		0		1		0	//Sword of Destruction  
+//3			10		7				9			1		0		1		0	//Dragon Spear
+//0			18		7				9			1		0		1		0	//Thunder Blade  
+//4			16		7				9			1		0		1		0	//Saint Crossbow
+//
+//5			9		7				9			0		0		2		0	//Dragon Soul Staff  
+//5			21		7				9			1		0		2		0	//Book of Sahamutt  
+//0			16		7				9			1		0		2		0	//Sword of Destruction  
+//3			10		7				9			1		0		2		0	//Dragon Spear
+//0			18		7				9			1		0		2		0	//Thunder Blade  
+//4			16		7				9			1		0		2		0	//Saint Crossbow
+//
+//5			9		7				9			0		0		3		0	//Dragon Soul Staff  
+//5			21		7				9			1		0		3		0	//Book of Sahamutt  
+//0			16		7				9			1		0		3		0	//Sword of Destruction  
+//3			10		7				9			1		0		3		0	//Dragon Spear
+//0			18		7				9			1		0		3		0	//Thunder Blade  
+//4			16		7				9			1		0		3		0	//Saint Crossbow
+//
+//5			9		7				9			0		1		1		0	//Dragon Soul Staff  
+//5			21		7				9			1		1		1		0	//Book of Sahamutt  
+//0			16		7				9			1		1		1		0	//Sword of Destruction  
+//3			10		7				9			1		1		1		0	//Dragon Spear
+//0			18		7				9			1		1		1		0	//Thunder Blade  
+//4			16		7				9			1		1		1		0	//Saint Crossbow
+//
+//5			9		7				9			0		1		2		0	//Dragon Soul Staff  
+//5			21		7				9			1		1		2		0	//Book of Sahamutt  
+//0			16		7				9			1		1		2		0	//Sword of Destruction  
+//3			10		7				9			1		1		2		0	//Dragon Spear
+//0			18		7				9			1		1		2		0	//Thunder Blade  
+//4			16		7				9			1		1		2		0	//Saint Crossbow
+//
+////exes rings y pendants
+//
+////13			25		0				0			0		0		0		1	//Pendant of Ice  
+////13			26		0				0			0		0		0		1	//Pendant of Wind 
+////13			27		0				0			0		0		0		1	//Pendant of Water 
+////13			28		0				0			0		0		0		1	//Pendant of Ability
+////13			21		0				0			0		0		0		1	//Ring of Fire 
+////13			22		0				0			0		0		0		1	//Ring of Earth 
+////13			23		0				0			0		0		0		1	//Ring of Wind  
+////13			24		0				0			0		0		0		1	//Ring of Magic  
+////
+////13			25		0				0			0		0		2		2	//Pendant of Ice  
+////13			26		0				0			0		0		2		2	//Pendant of Wind 
+////13			27		0				0			0		0		2		2	//Pendant of Water 
+////13			28		0				0			0		0		2		2	//Pendant of Ability
+////13			21		0				0			0		0		2		2	//Ring of Fire 
+////13			22		0				0			0		0		2		2	//Ring of Earth 
+////13			23		0				0			0		0		2		2	//Ring of Wind  
+////13			24		0				0			0		0		2		2	//Ring of Magic 
+//
+////Jewels
+////Jewel of Chaos
+////Jewel of Soul
+////Jewel of Bless
+////Jewel of Life
+////Jewel of Creation
+////Jewel of Harmony
+////Blades
+////Excellent Lightning Sword
+////Excellent Sword of Destruction
+////Excellent Crystal Sword
+////Excellent Rune Blade
+////Excellent Crystal Morning Star
+////Excellent Elemental Mace
+////Excellent Bill of Balrog
+////Bows
+////Excellent Silver Bow
+////Excellent Aquagold Crossbow
+////Excellent Saint's Crossbow
+////Wizardry
+////Excellent Legendary Staff
+////Excellent Staff of Destruction
+////Excellent Resurrection
+////Excellent Master Scepter
+////Excellent Great Scepter
+////Excellent Violent Wind Stick
+////Excellent Book of Samut
+////Armor
+////Excellent Ashcrow Helm, Armor, Pants, Boots, Gloves
+////Excellent Eclipse Helm, Armor, Pants, Boots, Gloves
+////Excellent Iris Helm, Armor, Pants, Boots, Gloves
+////Excellent Atlans Helm, Armor, Pants, Boots, Gloves
+////Excellent Adamantine Helm, Armor, Pants, Boots, Gloves
+////Excellent Light Plate Helm, Armor, Pants, Boots, Gloves
+////Excellent Red Wing Helm, Armor, Pants, Boots, Gloves
+////Sheilds
+////Excellent Dragon Shield
+////Excellent Legendary Shield
+////Excellent Serpent Shield
+////Others
+////Excellent Rings (any)
+////Excellent Pendants (any)
+////Devil's Invitation +1, +2
+////Cloak of Invisibility +1, +2, +3
+////Lost Map +1, +2
+end

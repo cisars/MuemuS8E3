@@ -1,0 +1,752 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks
+"Box of Heaven"	         1000	   80		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+12			15		0			0			0		0		0		0  	//Chaos
+14			13		0			0			0		0		0		0  	//Bless
+14			14		0			0			0		0		0		0  	//Soul
+
+13			12		4			0			0		0		2		0	//Pendant of Lighting
+13			12		4			0			0		0		1		0	//Pendant of Lighting
+13			12		4			0			0		0		0		0	//Pendant of Lighting
+13			12		3			0			0		0		2		0	//Pendant of Lighting
+13			12		3			0			0		0		1		0	//Pendant of Lighting
+13			12		3			0			0		0		0		0	//Pendant of Lighting
+13			12		2			0			0		0		2		0	//Pendant of Lighting
+13			12		2			0			0		0		1		0	//Pendant of Lighting
+13			12		2			0			0		0		0		0	//Pendant of Lighting
+13			12		1			0			0		0		2		0	//Pendant of Lighting
+13			12		1			0			0		0		1		0	//Pendant of Lighting
+13			12		1			0			0		0		0		0	//Pendant of Lighting
+13			12		0			0			0		0		2		0	//Pendant of Lighting
+13			12		0			0			0		0		1		0	//Pendant of Lighting
+13			12		0			0			0		0		0		0	//Pendant of Lighting
+
+13			13		4			0			0		0		2		0	//Pendant of Fire
+13			13		4			0			0		0		1		0	//Pendant of Fire
+13			13		4			0			0		0		0		0	//Pendant of Fire
+13			13		3			0			0		0		2		0	//Pendant of Fire
+13			13		3			0			0		0		1		0	//Pendant of Fire
+13			13		3			0			0		0		0		0	//Pendant of Fire
+13			13		2			0			0		0		2		0	//Pendant of Fire
+13			13		2			0			0		0		1		0	//Pendant of Fire
+13			13		2			0			0		0		0		0	//Pendant of Fire
+13			13		1			0			0		0		2		0	//Pendant of Fire
+13			13		1			0			0		0		1		0	//Pendant of Fire
+13			13		1			0			0		0		0		0	//Pendant of Fire
+13			13		0			0			0		0		2		0	//Pendant of Fire
+13			13		0			0			0		0		1		0	//Pendant of Fire
+13			13		0			0			0		0		0		0	//Pendant of Fire
+
+13			9		4			0			0		0		2		0	//Ring of Poison
+13			9		4			0			0		0		1		0	//Ring of Poison
+13			9		4			0			0		0		0		0	//Ring of Poison
+13			9		3			0			0		0		2		0	//Ring of Poison
+13			9		3			0			0		0		1		0	//Ring of Poison
+13			9		3			0			0		0		0		0	//Ring of Poison
+13			9		2			0			0		0		2		0	//Ring of Poison
+13			9		2			0			0		0		1		0	//Ring of Poison
+13			9		2			0			0		0		0		0	//Ring of Poison
+13			9		1			0			0		0		2		0	//Ring of Poison
+13			9		1			0			0		0		1		0	//Ring of Poison
+13			9		1			0			0		0		0		0	//Ring of Poison
+13			9		0			0			0		0		2		0	//Ring of Poison
+13			9		0			0			0		0		1		0	//Ring of Poison
+13			9		0			0			0		0		0		0	//Ring of Poison
+
+13			8		4			0			0		0		2		0	//Ring of Ice
+13			8		4			0			0		0		1		0	//Ring of Ice
+13			8		4			0			0		0		0		0	//Ring of Ice
+13			8		3			0			0		0		2		0	//Ring of Ice
+13			8		3			0			0		0		1		0	//Ring of Ice
+13			8		3			0			0		0		0		0	//Ring of Ice
+13			8		2			0			0		0		2		0	//Ring of Ice
+13			8		2			0			0		0		1		0	//Ring of Ice
+13			8		2			0			0		0		0		0	//Ring of Ice
+13			8		1			0			0		0		2		0	//Ring of Ice
+13			8		1			0			0		0		1		0	//Ring of Ice
+13			8		1			0			0		0		0		0	//Ring of Ice
+13			8		0			0			0		0		2		0	//Ring of Ice
+13			8		0			0			0		0		1		0	//Ring of Ice
+13			8		0			0			0		0		0		0	//Ring of Ice
+ 
+13			10		5			0			0		0		0		0	//Ring of Transform in Death Cow
+13			10		4			0			0		0		0		0	//Ring of Transform in Linch
+13			10		3			0			0		0		0		0	//Ring of Transform in Bull
+13			10		2			0			0		0		0		0	//Ring of Transform in Skeleton
+13			10		1			0			0		0		0		0	//Ring of Transform in Gigant
+13			10		0			0			0		0		0		0	//Ring of Transform in Dragonin 
+// Helms hasta 6 sin luck
+7			0		3			6			0		0		0		0 	//Bronze Helm
+7			2		3			6			0		0		0		0 	//Pad Helm
+7			4		3			6			0		0		0		0 	//Bone Helm
+7			5		3			6			0		0		0		0 	//Leather Helm
+7			7		3			6			0		0		0		0 	//Sphinx Helm
+7			10		3			6			0		0		0		0 	//Vine Helm
+7			11		3			6			0		0		0		0 	//Silk Helm
+7			12		3			6			0		0		0		0 	//Wind Helm
+//                  3           6
+7			0		3			6			0		0		1		0	//Bronze Helm
+7			2		3			6			0		0		1		0	//Pad Helm
+7			4		3			6			0		0		1		0	//Bone Helm
+7			5		3			6			0		0		1		0	//Leather Helm
+7			7		3			6			0		0		1		0	//Sphinx Helm
+7			10		3			6			0		0		1		0	//Vine Helm
+7			11		3			6			0		0		1		0	//Silk Helm
+7			12		3			6			0		0		1		0	//Wind Helm
+//                  3           6
+7			0		3			6			0		0		2		0  	//Bronze Helm
+7			2		3			6			0		0		2		0  	//Pad Helm
+7			4		3			6			0		0		2		0  	//Bone Helm
+7			5		3			6			0		0		2		0  	//Leather Helm
+7			7		3			6			0		0		2		0  	//Sphinx Helm
+7			10		3			6			0		0		2		0  	//Vine Helm
+7			11		3			6			0		0		2		0  	//Silk Helm
+7			12		3			6			0		0		2		0  	//Wind Helm
+//                  3           6
+7			0		3			6			0		0		3		0 	//Bronze Helm
+7			2		3			6			0		0		3		0 	//Pad Helm
+7			4		3			6			0		0		3		0 	//Bone Helm
+7			5		3			6			0		0		3		0 	//Leather Helm
+7			7		3			6			0		0		3		0 	//Sphinx Helm
+7			10		3			6			0		0		3		0 	//Vine Helm
+7			11		3			6			0		0		3		0 	//Silk Helm
+7			12		3			6			0		0		3		0 	//Wind Helm
+// Helms hasta 6 co3 luck      6
+7			0		3			6			0		1		0		0  	//Bronze Helm
+7			2		3			6			0		1		0		0  	//Pad Helm
+7			4		3			6			0		1		0		0  	//Bone Helm
+7			5		3			6			0		1		0		0  	//Leather Helm
+7			7		3			6			0		1		0		0  	//Sphinx Helm
+7			10		3			6			0		1		0		0  	//Vine Helm
+7			11		3			6			0		1		0		0  	//Silk Helm
+7			12		3			6			0		1		0		0  	//Wind Helm
+//                  3           6
+7			0		3			6			0		1		1		0  	//Bronze Helm
+7			2		3			6			0		1		1		0  	//Pad Helm
+7			4		3			6			0		1		1		0  	//Bone Helm
+7			5		3			6			0		1		1		0  	//Leather Helm
+7			7		3			6			0		1		1		0  	//Sphinx Helm
+7			10		3			6			0		1		1		0  	//Vine Helm
+7			11		3			6			0		1		1		0  	//Silk Helm
+7			12		3			6			0		1		1		0  	//Wind Helm
+//                  3           6
+7			0		3			6			0		1		2		0  	//Bronze Helm
+7			2		3			6			0		1		2		0  	//Pad Helm
+7			4		3			6			0		1		2		0  	//Bone Helm
+7			5		3			6			0		1		2		0  	//Leather Helm
+7			7		3			6			0		1		2		0  	//Sphinx Helm
+7			10		3			6			0		1		2		0  	//Vine Helm
+7			11		3			6			0		1		2		0  	//Silk Helm
+7			12		3			6			0		1		2		0  	//Wind Helm
+//                  3           6
+7			0		3			6			0		1		3		0  	//Bronze Helm
+7			2		3			6			0		1		3		0  	//Pad Helm
+7			4		3			6			0		1		3		0  	//Bone Helm
+7			5		3			6			0		1		3		0  	//Leather Helm
+7			7		3			6			0		1		3		0  	//Sphinx Helm
+7			10		3			6			0		1		3		0  	//Vine Helm
+7			11		3			6			0		1		3		0  	//Silk Helm
+7			12		3			6			0		1		3		0  	//Wind Helm
+// Armor hasta 11 si3 luck      6                                  0  	
+8			0		3			6			0		0		0		0  	//Bronze Armor
+8			2		3			6			0		0		0		0  	//Pad Armor
+8			4		3			6			0		0		0		0  	//Bone Armor
+8			5		3			6			0		0		0		0  	//Leather Armor
+8			7		3			6			0		0		0		0  	//Sphinx Armor
+8			10		3			6			0		0		0		0  	//Vine Armor
+8			11		3			6			0		0		0		0  	//Silk Armor
+8			12		3			6			0		0		0		0  	//Wind Armor
+//                  3           6
+8			0		3			6			0		0		1		0  	//Bronze Armor
+8			2		3			6			0		0		1		0  	//Pad Armor
+8			4		3			6			0		0		1		0  	//Bone Armor
+8			5		3			6			0		0		1		0  	//Leather Armor
+8			7		3			6			0		0		1		0  	//Sphinx Armor
+8			10		3			6			0		0		1		0  	//Vine Armor
+8			11		3			6			0		0		1		0  	//Silk Armor
+8			12		3			6			0		0		1		0  	//Wind Armor
+//                  3           6
+8			0		3			6			0		0		2		0  	//Bronze Armor
+8			2		3			6			0		0		2		0  	//Pad Armor
+8			4		3			6			0		0		2		0  	//Bone Armor
+8			5		3			6			0		0		2		0  	//Leather Armor
+8			7		3			6			0		0		2		0  	//Sphinx Armor
+8			10		3			6			0		0		2		0  	//Vine Armor
+8			11		3			6			0		0		2		0  	//Silk Armor
+8			12		3			6			0		0		2		0  	//Wind Armor
+//                  3           6
+8			0		3			6			0		0		3		0  	//Bronze Armor
+8			2		3			6			0		0		3		0  	//Pad Armor
+8			4		3			6			0		0		3		0  	//Bone Armor
+8			5		3			6			0		0		3		0  	//Leather Armor
+8			7		3			6			0		0		3		0  	//Sphinx Armor
+8			10		3			6			0		0		3		0  	//Vine Armor
+8			11		3			6			0		0		3		0  	//Silk Armor
+8			12		3			6			0		0		3		0  	//Wind Armor
+// Armor hasta 11 co3 luck      6                                  0  	
+8			0		3			6			0		1		0		0  	//Bronze Armor
+8			2		3			6			0		1		0		0  	//Pad Armor
+8			4		3			6			0		1		0		0  	//Bone Armor
+8			5		3			6			0		1		0		0  	//Leather Armor
+8			7		3			6			0		1		0		0  	//Sphinx Armor
+8			10		3			6			0		1		0		0  	//Vine Armor
+8			11		3			6			0		1		0		0  	//Silk Armor
+8			12		3			6			0		1		0		0  	//Wind Armor
+//                  3           6
+8			0		3			6			0		1		1		0  	//Bronze Armor
+8			2		3			6			0		1		1		0  	//Pad Armor
+8			4		3			6			0		1		1		0  	//Bone Armor
+8			5		3			6			0		1		1		0  	//Leather Armor
+8			7		3			6			0		1		1		0  	//Sphinx Armor
+8			10		3			6			0		1		1		0  	//Vine Armor
+8			11		3			6			0		1		1		0  	//Silk Armor
+8			12		3			6			0		1		1		0  	//Wind Armor
+//                  3           6
+8			0		3			6			0		1		2		0  	//Bronze Armor
+8			2		3			6			0		1		2		0  	//Pad Armor
+8			4		3			6			0		1		2		0  	//Bone Armor
+8			5		3			6			0		1		2		0  	//Leather Armor
+8			7		3			6			0		1		2		0  	//Sphinx Armor
+8			10		3			6			0		1		2		0  	//Vine Armor
+8			11		3			6			0		1		2		0  	//Silk Armor
+8			12		3			6			0		1		2		0  	//Wind Armor
+//                  3           6
+8			0		3			6			0		1		3		0  	//Bronze Armor
+8			2		3			6			0		1		3		0  	//Pad Armor
+8			4		3			6			0		1		3		0  	//Bone Armor
+8			5		3			6			0		1		3		0  	//Leather Armor
+8			7		3			6			0		1		3		0  	//Sphinx Armor
+8			10		3			6			0		1		3		0  	//Vine Armor
+8			11		3			6			0		1		3		0  	//Silk Armor
+8			12		3			6			0		1		3		0  	//Wind Armor
+// Pants hasta 11 si3 luck      6                                  0  	
+9			0		3			6			0		0		0		0  	//Bronze Pants
+9			2		3			6			0		0		0		0  	//Pad Pants
+9			4		3			6			0		0		0		0  	//Bone Pants
+9			5		3			6			0		0		0		0  	//Leather Pants
+9			7		3			6			0		0		0		0  	//Sphinx Pants
+9			10		3			6			0		0		0		0  	//Vine Pants
+9			11		3			6			0		0		0		0  	//Silk Pants
+9			12		3			6			0		0		0		0  	//Wind Pants
+//                  3           6
+9			0		3			6			0		0		1		0  	//Bronze Pants
+9			2		3			6			0		0		1		0  	//Pad Pants
+9			4		3			6			0		0		1		0  	//Bone Pants
+9			5		3			6			0		0		1		0  	//Leather Pants
+9			7		3			6			0		0		1		0  	//Sphinx Pants
+9			10		3			6			0		0		1		0  	//Vine Pants
+9			11		3			6			0		0		1		0  	//Silk Pants
+9			12		3			6			0		0		1		0  	//Wind Pants
+//                  3           6
+9			0		3			6			0		0		2		0  	//Bronze Pants
+9			2		3			6			0		0		2		0  	//Pad Pants
+9			4		3			6			0		0		2		0  	//Bone Pants
+9			5		3			6			0		0		2		0  	//Leather Pants
+9			7		3			6			0		0		2		0  	//Sphinx Pants
+9			10		3			6			0		0		2		0  	//Vine Pants
+9			11		3			6			0		0		2		0  	//Silk Pants
+9			12		3			6			0		0		2		0  	//Wind Pants
+//                  3           6
+9			0		3			6			0		0		3		0  	//Bronze Pants
+9			2		3			6			0		0		3		0  	//Pad Pants
+9			4		3			6			0		0		3		0  	//Bone Pants
+9			5		3			6			0		0		3		0  	//Leather Pants
+9			7		3			6			0		0		3		0  	//Sphinx Pants
+9			10		3			6			0		0		3		0  	//Vine Pants
+9			11		3			6			0		0		3		0  	//Silk Pants
+9			12		3			6			0		0		3		0  	//Wind Pants
+// Pants hasta 11 co3 luck      6                                  0  	
+9			0		3			6			0		1		0		0  	//Bronze Pants
+9			2		3			6			0		1		0		0  	//Pad Pants
+9			4		3			6			0		1		0		0  	//Bone Pants
+9			5		3			6			0		1		0		0  	//Leather Pants
+9			7		3			6			0		1		0		0  	//Sphinx Pants
+9			10		3			6			0		1		0		0  	//Vine Pants
+9			11		3			6			0		1		0		0  	//Silk Pants
+9			12		3			6			0		1		0		0  	//Wind Pants
+//                  3           6
+9			0		3			6			0		1		1		0  	//Bronze Pants
+9			2		3			6			0		1		1		0  	//Pad Pants
+9			4		3			6			0		1		1		0  	//Bone Pants
+9			5		3			6			0		1		1		0  	//Leather Pants
+9			7		3			6			0		1		1		0  	//Sphinx Pants
+9			10		3			6			0		1		1		0  	//Vine Pants
+9			11		3			6			0		1		1		0  	//Silk Pants
+9			12		3			6			0		1		1		0  	//Wind Pants
+//                  3           6
+9			0		3			6			0		1		2		0  	//Bronze Pants
+9			2		3			6			0		1		2		0  	//Pad Pants
+9			4		3			6			0		1		2		0  	//Bone Pants
+9			5		3			6			0		1		2		0  	//Leather Pants
+9			7		3			6			0		1		2		0  	//Sphinx Pants
+9			10		3			6			0		1		2		0  	//Vine Pants
+9			11		3			6			0		1		2		0  	//Silk Pants
+9			12		3			6			0		1		2		0  	//Wind Pants
+//                  3           6
+9			0		3			6			0		1		3		0  	//Bronze Pants
+9			2		3			6			0		1		3		0  	//Pad Pants
+9			4		3			6			0		1		3		0  	//Bone Pants
+9			5		3			6			0		1		3		0  	//Leather Pants
+9			7		3			6			0		1		3		0  	//Sphinx Pants
+9			10		3			6			0		1		3		0  	//Vine Pants
+9			11		3			6			0		1		3		0  	//Silk Pants
+9			12		3			6			0		1		3		0  	//Wind Pants
+// Gloves hasta 11 s3n luck     6                                  0  	
+10			0		3			6			0		0		0		0  	//Bronze Gloves
+10			2		3			6			0		0		0		0  	//Pad Gloves
+10			4		3			6			0		0		0		0  	//Bone Gloves
+10			5		3			6			0		0		0		0  	//Leather Gloves
+10			7		3			6			0		0		0		0  	//Sphinx Gloves
+10			10		3			6			0		0		0		0  	//Vine Gloves
+10			11		3			6			0		0		0		0  	//Silk Gloves
+10			12		3			6			0		0		0		0  	//Wind Gloves
+//                  3           6
+10			0		3			6			0		0		1		0  	//Bronze Gloves
+10			2		3			6			0		0		1		0  	//Pad Gloves
+10			4		3			6			0		0		1		0  	//Bone Gloves
+10			5		3			6			0		0		1		0  	//Leather Gloves
+10			7		3			6			0		0		1		0  	//Sphinx Gloves
+10			10		3			6			0		0		1		0  	//Vine Gloves
+10			11		3			6			0		0		1		0  	//Silk Gloves
+10			12		3			6			0		0		1		0  	//Wind Gloves
+//                  3           6
+10			0		3			6			0		0		2		0  	//Bronze Gloves
+10			2		3			6			0		0		2		0  	//Pad Gloves
+10			4		3			6			0		0		2		0  	//Bone Gloves
+10			5		3			6			0		0		2		0  	//Leather Gloves
+10			7		3			6			0		0		2		0  	//Sphinx Gloves
+10			10		3			6			0		0		2		0  	//Vine Gloves
+10			11		3			6			0		0		2		0  	//Silk Gloves
+10			12		3			6			0		0		2		0  	//Wind Gloves
+//                  3           6
+10			0		3			6			0		0		3		0  	//Bronze Gloves
+10			2		3			6			0		0		3		0  	//Pad Gloves
+10			4		3			6			0		0		3		0  	//Bone Gloves
+10			5		3			6			0		0		3		0  	//Leather Gloves
+10			7		3			6			0		0		3		0  	//Sphinx Gloves
+10			10		3			6			0		0		3		0  	//Vine Gloves
+10			11		3			6			0		0		3		0  	//Silk Gloves
+10			12		3			6			0		0		3		0  	//Wind Gloves
+// Gloves hasta 11 c3n luck     6                                  0  	
+10			0		3			6			0		1		0		0  	//Bronze Gloves
+10			2		3			6			0		1		0		0  	//Pad Gloves
+10			4		3			6			0		1		0		0  	//Bone Gloves
+10			5		3			6			0		1		0		0  	//Leather Gloves
+10			7		3			6			0		1		0		0  	//Sphinx Gloves
+10			10		3			6			0		1		0		0  	//Vine Gloves
+10			11		3			6			0		1		0		0  	//Silk Gloves
+10			12		3			6			0		1		0		0  	//Wind Gloves
+//                  3           6
+10			0		3			6			0		1		1		0  	//Bronze Gloves
+10			2		3			6			0		1		1		0  	//Pad Gloves
+10			4		3			6			0		1		1		0  	//Bone Gloves
+10			5		3			6			0		1		1		0  	//Leather Gloves
+10			7		3			6			0		1		1		0  	//Sphinx Gloves
+10			10		3			6			0		1		1		0  	//Vine Gloves
+10			11		3			6			0		1		1		0  	//Silk Gloves
+10			12		3			6			0		1		1		0  	//Wind Gloves
+//                  3           6
+10			0		3			6			0		1		2		0  	//Bronze Gloves
+10			2		3			6			0		1		2		0  	//Pad Gloves
+10			4		3			6			0		1		2		0  	//Bone Gloves
+10			5		3			6			0		1		2		0  	//Leather Gloves
+10			7		3			6			0		1		2		0  	//Sphinx Gloves
+10			10		3			6			0		1		2		0  	//Vine Gloves
+10			11		3			6			0		1		2		0  	//Silk Gloves
+10			12		3			6			0		1		2		0  	//Wind Gloves
+//                  3           6
+10			0		3			6			0		1		3		0  	//Bronze Gloves
+10			2		3			6			0		1		3		0  	//Pad Gloves
+10			4		3			6			0		1		3		0  	//Bone Gloves
+10			5		3			6			0		1		3		0  	//Leather Gloves
+10			7		3			6			0		1		3		0  	//Sphinx Gloves
+10			10		3			6			0		1		3		0  	//Vine Gloves
+10			11		3			6			0		1		3		0  	//Silk Gloves
+10			12		3			6			0		1		3		0  	//Wind Gloves
+// Boots hasta 11 si3 luck      6                                  0  	
+11			0		3			6			0		0		0		0  	//Bronze Boots
+11			2		3			6			0		0		0		0  	//Pad Boots
+11			4		3			6			0		0		0		0  	//Bone Boots
+11			5		3			6			0		0		0		0  	//Leather Boots
+11			7		3			6			0		0		0		0  	//Sphinx Boots
+11			10		3			6			0		0		0		0  	//Vine Boots
+11			11		3			6			0		0		0		0  	//Silk Boots
+11			12		3			6			0		0		0		0  	//Wind Boots
+//                  3           6
+11			0		3			6			0		0		1		0  	//Bronze Boots
+11			2		3			6			0		0		1		0  	//Pad Boots
+11			4		3			6			0		0		1		0  	//Bone Boots
+11			5		3			6			0		0		1		0  	//Leather Boots
+11			7		3			6			0		0		1		0  	//Sphinx Boots
+11			10		3			6			0		0		1		0  	//Vine Boots
+11			11		3			6			0		0		1		0  	//Silk Boots
+11			12		3			6			0		0		1		0  	//Wind Boots
+//                  3           6
+11			0		3			6			0		0		2		0  	//Bronze Boots
+11			2		3			6			0		0		2		0  	//Pad Boots
+11			4		3			6			0		0		2		0  	//Bone Boots
+11			5		3			6			0		0		2		0  	//Leather Boots
+11			7		3			6			0		0		2		0  	//Sphinx Boots
+11			10		3			6			0		0		2		0  	//Vine Boots
+11			11		3			6			0		0		2		0  	//Silk Boots
+11			12		3			6			0		0		2		0  	//Wind Boots
+//                  3           6
+11			0		3			6			0		0		3		0  	//Bronze Boots
+11			2		3			6			0		0		3		0  	//Pad Boots
+11			4		3			6			0		0		3		0  	//Bone Boots
+11			5		3			6			0		0		3		0  	//Leather Boots
+11			7		3			6			0		0		3		0  	//Sphinx Boots
+11			10		3			6			0		0		3		0  	//Vine Boots
+11			11		3			6			0		0		3		0  	//Silk Boots
+11			12		3			6			0		0		3		0  	//Wind Boots
+// Boots hasta 11 co3 luck      6                                  0  	
+11			0		3			6			0		1		0		0  	//Bronze Boots
+11			2		3			6			0		1		0		0  	//Pad Boots
+11			4		3			6			0		1		0		0  	//Bone Boots
+11			5		3			6			0		1		0		0  	//Leather Boots
+11			7		3			6			0		1		0		0  	//Sphinx Boots
+11			10		3			6			0		1		0		0  	//Vine Boots
+11			11		3			6			0		1		0		0  	//Silk Boots
+11			12		3			6			0		1		0		0  	//Wind Boots
+//                  3           6
+11			0		3			6			0		1		1		0  	//Bronze Boots
+11			2		3			6			0		1		1		0  	//Pad Boots
+11			4		3			6			0		1		1		0  	//Bone Boots
+11			5		3			6			0		1		1		0  	//Leather Boots
+11			7		3			6			0		1		1		0  	//Sphinx Boots
+11			10		3			6			0		1		1		0  	//Vine Boots
+11			11		3			6			0		1		1		0  	//Silk Boots
+11			12		3			6			0		1		1		0  	//Wind Boots
+//                  3           6
+11			0		3			6			0		1		2		0  	//Bronze Boots
+11			2		3			6			0		1		2		0  	//Pad Boots
+11			4		3			6			0		1		2		0  	//Bone Boots
+11			5		3			6			0		1		2		0  	//Leather Boots
+11			7		3			6			0		1		2		0  	//Sphinx Boots
+11			10		3			6			0		1		2		0  	//Vine Boots
+11			11		3			6			0		1		2		0  	//Silk Boots
+11			12		3			6			0		1		2		0  	//Wind Boots
+//                  3           6
+11			0		3			6			0		1		3		0  	//Bronze Boots
+11			2		3			6			0		1		3		0  	//Pad Boots
+11			4		3			6			0		1		3		0  	//Bone Boots
+11			5		3			6			0		1		3		0  	//Leather Boots
+11			7		3			6			0		1		3		0  	//Sphinx Boots
+11			10		3			6			0		1		3		0  	//Vine Boots
+11			11		3			6			0		1		3		0  	//Silk Boots
+11			12		3			6			0		1		3		0  	//Wind Boots
+// Armas sin skill s3n luck     6                                  0  	
+5			3		3			6			0		0		0		0  	//Thunder Staff
+5			0		3			6			0		0		0		0  	//Skull Staff
+6			3		3			6			0		0		0		0  	//Elven Shield
+6			6		3			6			0		0		0		0  	//Skull Shield
+6			8		3			6			0		0		0		0  	//Tower Shield
+0			2		3			6			0		0		0		0  	//Rapier
+0			14		3			6			0		0		0		0  	//Lightning Sword
+0			13		3			6			0		0		0		0  	//Double Blade
+0			3		3			6			0		0		0		0  	//Katana
+2			8		3			6			0		0		0		0  	//Battle Scepter
+4			5		3			6			0		0		0		0  	//Silver Bow
+4			4		3			6			0		0		0		0  	//Tiger Bow
+4			1		3			6			0		0		0		0  	//Bow
+4			2		3			6			0		0		0		0  	//Elven Bow
+3			7		3			6			0		0		0		0  	//Berdysh
+3			8		3			6			0		0		0		0  	//Great Scythe
+//                  3           6
+5			3		3			6			0		0		1		0  	//Thunder Staff
+5			0		3			6			0		0		1		0  	//Skull Staff
+6			3		3			6			0		0		1		0  	//Elven Shield
+6			6		3			6			0		0		1		0  	//Skull Shield
+6			8		3			6			0		0		1		0  	//Tower Shield
+0			2		3			6			0		0		1		0  	//Rapier
+0			14		3			6			0		0		1		0  	//Lightning Sword
+0			13		3			6			0		0		1		0  	//Double Blade
+0			3		3			6			0		0		1		0  	//Katana
+2			8		3			6			0		0		1		0  	//Battle Scepter
+4			5		3			6			0		0		1		0  	//Silver Bow
+4			4		3			6			0		0		1		0  	//Tiger Bow
+4			1		3			6			0		0		1		0  	//Bow
+4			2		3			6			0		0		1		0  	//Elven Bow
+3			7		3			6			0		0		1		0  	//Berdysh
+3			8		3			6			0		0		1		0  	//Great Scythe
+//                  3           6
+5			3		3			6			0		0		2		0  	//Thunder Staff
+5			0		3			6			0		0		2		0  	//Skull Staff
+6			3		3			6			0		0		2		0  	//Elven Shield
+6			6		3			6			0		0		2		0  	//Skull Shield
+6			8		3			6			0		0		2		0  	//Tower Shield
+0			2		3			6			0		0		2		0  	//Rapier
+0			14		3			6			0		0		2		0  	//Lightning Sword
+0			13		3			6			0		0		2		0  	//Double Blade
+0			3		3			6			0		0		2		0  	//Katana
+2			8		3			6			0		0		2		0  	//Battle Scepter
+4			5		3			6			0		0		2		0  	//Silver Bow
+4			4		3			6			0		0		2		0  	//Tiger Bow
+4			1		3			6			0		0		2		0  	//Bow
+4			2		3			6			0		0		2		0  	//Elven Bow
+3			7		3			6			0		0		2		0  	//Berdysh
+3			8		3			6			0		0		2		0  	//Great Scythe
+//                  3           6
+5			3		3			6			0		0		3		0  	//Thunder Staff
+5			0		3			6			0		0		3		0  	//Skull Staff
+6			3		3			6			0		0		3		0  	//Elven Shield
+6			6		3			6			0		0		3		0  	//Skull Shield
+6			8		3			6			0		0		3		0  	//Tower Shield
+0			2		3			6			0		0		3		0  	//Rapier
+0			14		3			6			0		0		3		0  	//Lightning Sword
+0			13		3			6			0		0		3		0  	//Double Blade
+0			3		3			6			0		0		3		0  	//Katana
+2			8		3			6			0		0		3		0  	//Battle Scepter
+4			5		3			6			0		0		3		0  	//Silver Bow
+4			4		3			6			0		0		3		0  	//Tiger Bow
+4			1		3			6			0		0		3		0  	//Bow
+4			2		3			6			0		0		3		0  	//Elven Bow
+3			7		3			6			0		0		3		0  	//Berdysh
+3			8		3			6			0		0		3		0  	//Great Scythe
+// Armas sin skill c3n luck     6                                  0  	
+5			3		3			6			0		1		0		0  	//Thunder Staff
+5			0		3			6			0		1		0		0  	//Skull Staff
+6			3		3			6			0		1		0		0  	//Elven Shield
+6			6		3			6			0		1		0		0  	//Skull Shield
+6			8		3			6			0		1		0		0  	//Tower Shield
+0			2		3			6			0		1		0		0  	//Rapier
+0			14		3			6			0		1		0		0  	//Lightning Sword
+0			13		3			6			0		1		0		0  	//Double Blade
+0			3		3			6			0		1		0		0  	//Katana
+2			8		3			6			0		1		0		0  	//Battle Scepter
+4			5		3			6			0		1		0		0  	//Silver Bow
+4			4		3			6			0		1		0		0  	//Tiger Bow
+4			1		3			6			0		1		0		0  	//Bow
+4			2		3			6			0		1		0		0  	//Elven Bow
+3			7		3			6			0		1		0		0  	//Berdysh
+3			8		3			6			0		1		0		0  	//Great Scythe
+//                  3           6
+5			3		3			6			0		1		1		0  	//Thunder Staff
+5			0		3			6			0		1		1		0  	//Skull Staff
+6			3		3			6			0		1		1		0  	//Elven Shield
+6			6		3			6			0		1		1		0  	//Skull Shield
+6			8		3			6			0		1		1		0  	//Tower Shield
+0			2		3			6			0		1		1		0  	//Rapier
+0			14		3			6			0		1		1		0  	//Lightning Sword
+0			13		3			6			0		1		1		0  	//Double Blade
+0			3		3			6			0		1		1		0  	//Katana
+2			8		3			6			0		1		1		0  	//Battle Scepter
+4			5		3			6			0		1		1		0  	//Silver Bow
+4			4		3			6			0		1		1		0  	//Tiger Bow
+4			1		3			6			0		1		1		0  	//Bow
+4			2		3			6			0		1		1		0  	//Elven Bow
+3			7		3			6			0		1		1		0  	//Berdysh
+3			8		3			6			0		1		1		0  	//Great Scythe
+//                  3           6
+5			3		3			6			0		1		2		0  	//Thunder Staff
+5			0		3			6			0		1		2		0  	//Skull Staff
+6			3		3			6			0		1		2		0  	//Elven Shield
+6			6		3			6			0		1		2		0  	//Skull Shield
+6			8		3			6			0		1		2		0  	//Tower Shield
+0			2		3			6			0		1		2		0  	//Rapier
+0			14		3			6			0		1		2		0  	//Lightning Sword
+0			13		3			6			0		1		2		0  	//Double Blade
+0			3		3			6			0		1		2		0  	//Katana
+2			8		3			6			0		1		2		0  	//Battle Scepter
+4			5		3			6			0		1		2		0  	//Silver Bow
+4			4		3			6			0		1		2		0  	//Tiger Bow
+4			1		3			6			0		1		2		0  	//Bow
+4			2		3			6			0		1		2		0  	//Elven Bow
+3			7		3			6			0		1		2		0  	//Berdysh
+3			8		3			6			0		1		2		0  	//Great Scythe
+//                  3           6
+5			3		3			6			0		1		3		0  	//Thunder Staff
+5			0		3			6			0		1		3		0  	//Skull Staff
+6			3		3			6			0		1		3		0  	//Elven Shield
+6			6		3			6			0		1		3		0  	//Skull Shield
+6			8		3			6			0		1		3		0  	//Tower Shield
+0			2		3			6			0		1		3		0  	//Rapier
+0			14		3			6			0		1		3		0  	//Lightning Sword
+0			13		3			6			0		1		3		0  	//Double Blade
+0			3		3			6			0		1		3		0  	//Katana
+2			8		3			6			0		1		3		0  	//Battle Scepter
+4			5		3			6			0		1		3		0  	//Silver Bow
+4			4		3			6			0		1		3		0  	//Tiger Bow
+4			1		3			6			0		1		3		0  	//Bow
+4			2		3			6			0		1		3		0  	//Elven Bow
+3			7		3			6			0		1		3		0  	//Berdysh
+3			8		3			6			0		1		3		0  	//Great Scythe
+// Armas con skill c3n luck     6                                  0  	
+5			3		3			6			1		1		0		0  	//Thunder Staff
+5			0		3			6			1		1		0		0  	//Skull Staff
+6			3		3			6			1		1		0		0  	//Elven Shield
+6			6		3			6			1		1		0		0  	//Skull Shield
+6			8		3			6			1		1		0		0  	//Tower Shield
+0			2		3			6			1		1		0		0  	//Rapier
+0			14		3			6			1		1		0		0  	//Lightning Sword
+0			13		3			6			1		1		0		0  	//Double Blade
+0			3		3			6			1		1		0		0  	//Katana
+2			8		3			6			1		1		0		0  	//Battle Scepter
+4			5		3			6			1		1		0		0  	//Silver Bow
+4			4		3			6			1		1		0		0  	//Tiger Bow
+4			1		3			6			1		1		0		0  	//Bow
+4			2		3			6			1		1		0		0  	//Elven Bow
+3			7		3			6			1		1		0		0  	//Berdysh
+3			8		3			6			1		1		0		0  	//Great Scythe
+//                  3           6
+5			3		3			6			1		1		1		0  	//Thunder Staff
+5			0		3			6			1		1		1		0  	//Skull Staff
+6			3		3			6			1		1		1		0  	//Elven Shield
+6			6		3			6			1		1		1		0  	//Skull Shield
+6			8		3			6			1		1		1		0  	//Tower Shield
+0			2		3			6			1		1		1		0  	//Rapier
+0			14		3			6			1		1		1		0  	//Lightning Sword
+0			13		3			6			1		1		1		0  	//Double Blade
+0			3		3			6			1		1		1		0  	//Katana
+2			8		3			6			1		1		1		0  	//Battle Scepter
+4			5		3			6			1		1		1		0  	//Silver Bow
+4			4		3			6			1		1		1		0  	//Tiger Bow
+4			1		3			6			1		1		1		0  	//Bow
+4			2		3			6			1		1		1		0  	//Elven Bow
+3			7		3			6			1		1		1		0  	//Berdysh
+3			8		3			6			1		1		1		0  	//Great Scythe
+//                  3           6
+5			3		3			6			1		1		2		0  	//Thunder Staff
+5			0		3			6			1		1		2		0  	//Skull Staff
+6			3		3			6			1		1		2		0  	//Elven Shield
+6			6		3			6			1		1		2		0  	//Skull Shield
+6			8		3			6			1		1		2		0  	//Tower Shield
+0			2		3			6			1		1		2		0  	//Rapier
+0			14		3			6			1		1		2		0  	//Lightning Sword
+0			13		3			6			1		1		2		0  	//Double Blade
+0			3		3			6			1		1		2		0  	//Katana
+2			8		3			6			1		1		2		0  	//Battle Scepter
+4			5		3			6			1		1		2		0  	//Silver Bow
+4			4		3			6			1		1		2		0  	//Tiger Bow
+4			1		3			6			1		1		2		0  	//Bow
+4			2		3			6			1		1		2		0  	//Elven Bow
+3			7		3			6			1		1		2		0  	//Berdysh
+3			8		3			6			1		1		2		0  	//Great Scythe
+//                  3           6
+5			3		3			6			1		1		3		0  	//Thunder Staff
+5			0		3			6			1		1		3		0  	//Skull Staff
+6			3		3			6			1		1		3		0  	//Elven Shield
+6			6		3			6			1		1		3		0  	//Skull Shield
+6			8		3			6			1		1		3		0  	//Tower Shield
+0			2		3			6			1		1		3		0  	//Rapier
+0			14		3			6			1		1		3		0  	//Lightning Sword
+0			13		3			6			1		1		3		0  	//Double Blade
+0			3		3			6			1		1		3		0  	//Katana
+2			8		3			6			1		1		3		0  	//Battle Scepter
+4			5		3			6			1		1		3		0  	//Silver Bow
+4			4		3			6			1		1		3		0  	//Tiger Bow
+4			1		3			6			1		1		3		0  	//Bow
+4			2		3			6			1		1		3		0  	//Elven Bow
+3			7		3			6			1		1		3		0  	//Berdysh
+3			8		3			6			1		1		3		0  	//Great Scythe
+//summoner sets y st3ffs        6
+7			39		3			6			0		0		0		0  	//Helm Mistery
+8			39		3			6			0		0		0		0  	//Armor Mistery
+9			39		3			6			0		0		0		0  	//Pants Mistery
+10			39		3			6			0		0		0		0  	//Gloves Mistery
+11			39		3			6			0		0		0		0  	//Boots Mistery
+7			40		3			6			0		0		0		0  	//Helm Red Wing
+8			40		3			6			0		0		0		0  	//Armor Red Wing
+9			40		3			6			0		0		0		0  	//Pants Red Wing
+10			40		3			6			0		0		0		0  	//Gloves Red Wing
+11			40		3			6			0		0		0		0  	//Boots Red Wing
+5			14		3			6			0		0		0		0  	//Mistery Staff
+5			15		3			6			0		0		0		0  	//Violent Wind Staff
+//                  3           6
+7			39		3			6			0		0		1		0  	//Helm Mistery
+8			39		3			6			0		0		1		0  	//Armor Mistery
+9			39		3			6			0		0		1		0  	//Pants Mistery
+10			39		3			6			0		0		1		0  	//Gloves Mistery
+11			39		3			6			0		0		1		0  	//Boots Mistery
+7			40		3			6			0		0		1		0  	//Helm Red Wing
+8			40		3			6			0		0		1		0  	//Armor Red Wing
+9			40		3			6			0		0		1		0  	//Pants Red Wing
+10			40		3			6			0		0		1		0  	//Gloves Red Wing
+11			40		3			6			0		0		1		0  	//Boots Red Wing
+5			14		3			6			0		0		1		0  	//Mistery Staff
+5			15		3			6			0		0		1		0  	//Violent Wind Staff
+//                  3           6
+7			39		3			6			0		0		2		0  	//Helm Mistery
+8			39		3			6			0		0		2		0  	//Armor Mistery
+9			39		3			6			0		0		2		0  	//Pants Mistery
+10			39		3			6			0		0		2		0  	//Gloves Mistery
+11			39		3			6			0		0		2		0  	//Boots Mistery
+7			40		3			6			0		0		2		0  	//Helm Red Wing
+8			40		3			6			0		0		2		0  	//Armor Red Wing
+9			40		3			6			0		0		2		0  	//Pants Red Wing
+10			40		3			6			0		0		2		0  	//Gloves Red Wing
+11			40		3			6			0		0		2		0  	//Boots Red Wing
+5			14		3			6			0		0		2		0  	//Mistery Staff
+5			15		3			6			0		0		2		0  	//Violent Wind Staff
+//                  3           6
+7			39		3			6			0		0		3		0  	//Helm Mistery
+8			39		3			6			0		0		3		0  	//Armor Mistery
+9			39		3			6			0		0		3		0  	//Pants Mistery
+10			39		3			6			0		0		3		0  	//Gloves Mistery
+11			39		3			6			0		0		3		0  	//Boots Mistery
+7			40		3			6			0		0		3		0  	//Helm Red Wing
+8			40		3			6			0		0		3		0  	//Armor Red Wing
+9			40		3			6			0		0		3		0  	//Pants Red Wing
+10			40		3			6			0		0		3		0  	//Gloves Red Wing
+11			40		3			6			0		0		3		0  	//Boots Red Wing
+5			14		3			6			0		0		3		0  	//Mistery Staff
+5			15		3			6			0		0		3		0  	//Violent Wind Staff
+//                  3           6
+7			39		3			6			0		1		0		0  	//Helm Mistery
+8			39		3			6			0		1		0		0  	//Armor Mistery
+9			39		3			6			0		1		0		0  	//Pants Mistery
+10			39		3			6			0		1		0		0  	//Gloves Mistery
+11			39		3			6			0		1		0		0  	//Boots Mistery
+7			40		3			6			0		1		0		0  	//Helm Red Wing
+8			40		3			6			0		1		0		0  	//Armor Red Wing
+9			40		3			6			0		1		0		0  	//Pants Red Wing
+10			40		3			6			0		1		0		0  	//Gloves Red Wing
+11			40		3			6			0		1		0		0  	//Boots Red Wing
+5			14		3			6			0		1		0		0  	//Mistery Staff
+5			15		3			6			0		1		0		0  	//Violent Wind Staff
+//                  3           6
+7			39		3			6			0		1		1		0  	//Helm Mistery
+8			39		3			6			0		1		1		0  	//Armor Mistery
+9			39		3			6			0		1		1		0  	//Pants Mistery
+10			39		3			6			0		1		1		0  	//Gloves Mistery
+11			39		3			6			0		1		1		0  	//Boots Mistery
+7			40		3			6			0		1		1		0  	//Helm Red Wing
+8			40		3			6			0		1		1		0  	//Armor Red Wing
+9			40		3			6			0		1		1		0  	//Pants Red Wing
+10			40		3			6			0		1		1		0  	//Gloves Red Wing
+11			40		3			6			0		1		1		0  	//Boots Red Wing
+5			14		3			6			0		1		1		0  	//Mistery Staff
+5			15		3			6			0		1		1		0  	//Violent Wind Staff
+//                  3           6
+7			39		3			6			0		1		2		0  	//Helm Mistery
+8			39		3			6			0		1		2		0  	//Armor Mistery
+9			39		3			6			0		1		2		0  	//Pants Mistery
+10			39		3			6			0		1		2		0  	//Gloves Mistery
+11			39		3			6			0		1		2		0  	//Boots Mistery
+7			40		3			6			0		1		2		0  	//Helm Red Wing
+8			40		3			6			0		1		2		0  	//Armor Red Wing
+9			40		3			6			0		1		2		0  	//Pants Red Wing
+10			40		3			6			0		1		2		0  	//Gloves Red Wing
+11			40		3			6			0		1		2		0  	//Boots Red Wing
+5			14		3			6			0		1		2		0  	//Mistery Staff
+5			15		3			6			0		1		2		0  	//Violent Wind Staff
+//                  3           6
+7			39		3			6			0		1		3		0  	//Helm Mistery
+8			39		3			6			0		1		3		0  	//Armor Mistery
+9			39		3			6			0		1		3		0  	//Pants Mistery
+10			39		3			6			0		1		3		0  	//Gloves Mistery
+11			39		3			6			0		1		3		0  	//Boots Mistery
+7			40		3			6			0		1		3		0  	//Helm Red Wing
+8			40		3			6			0		1		3		0  	//Armor Red Wing
+9			40		3			6			0		1		3		0  	//Pants Red Wing
+10			40		3			6			0		1		3		0  	//Gloves Red Wing
+11			40		3			6			0		1		3		0  	//Boots Red Wing
+5			14		3			6			0		1		3		0  	//Mistery Staff
+5			15		3			6			0		1		3		0  	//Violent Wind Staff
+
+
+end

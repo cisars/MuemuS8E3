@@ -1,0 +1,106 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Box of Kundun 3"	 100000	   60		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   	MaxLevel   		Skill   Luck   Option   Excellent
+       
+7			1		0				0			0		1		0		2	//Dragon Helm
+8			1		0				0			0		1		0		2	//Dragon Armor
+9			1		0				0			0		1		0		2	//Dragon Pants
+10			1		0				0			0		1		0		2	//Dragon Gloves
+11			1		0				0			0		1		0		2	//Dragon Boots
+7			3		0				0			0		1		0		2	//Legendary Helm
+8			3		0				0			0		1		0		2	//Legendary Armor
+9			3		0				0			0		1		0		2	//Legendary Pants
+10			3		0				0			0		1		0		2	//Legendary Gloves
+11			3		0				0			0		1		0		2	//Legendary Boots
+7			9		0				0			0		1		0		2	//Plate Helm
+8			9		0				0			0		1		0		2	//Plate Armor
+9			9		0				0			0		1		0		2	//Plate Pants
+10			9		0				0			0		1		0		2	//Plate Gloves
+11			9		0				0			0		1		0		2	//Plate Boots
+7			13		0				0			0		1		0		2	//Spirit Helm
+8			13		0				0			0		1		0		2	//Spirit Armor
+9			13		0				0			0		1		0		2	//Spirit Pants
+10			13		0				0			0		1		0		2	//Spirit Gloves
+11			13		0				0			0		1		0		2	//Spirit Boots
+7			14		0				0			0		1		0		2	//Guardian Helm
+8			14		0				0			0		1		0		2	//Guardian Armor
+9			14		0				0			0		1		0		2	//Guardian Pants
+10			14		0				0			0		1		0		2	//Guardian Gloves
+11			14		0				0			0		1		0		2	//Guardian Boots
+7			34		0				0			0		1		0		2	//Ashcrow Helm
+8			34		0				0			0		1		0		2	//Ashcrow Armor
+9			34		0				0			0		1		0		2	//Ashcrow Pants
+10			34		0				0			0		1		0		2	//Ashcrow Gloves
+11			34		0				0			0		1		0		2	//Ashcrow Boots
+7			35		0				0			0		1		0		2	//Eclipse Helm
+8			35		0				0			0		1		0		2	//Eclipse Armor
+9			35		0				0			0		1		0		2	//Eclipse Pants
+10			35		0				0			0		1		0		2	//Eclipse Gloves
+11			35		0				0			0		1		0		2	//Eclipse Boots
+7			41		0				0			0		1		0		2	//Ancient Helm
+8			41		0				0			0		1		0		2	//Ancient Armor
+9			41		0				0			0		1		0		2	//Ancient Pants
+10			41		0				0			0		1		0		2	//Ancient Gloves
+11			41		0				0			0		1		0		2	//Ancient Boots
+
+//exes rings y pendants
+
+13			25		0				0			0		0		1		1	//Pendant of Ice  
+13			26		0				0			0		0		1		1	//Pendant of Wind 
+13			27		0				0			0		0		1		1	//Pendant of Water 
+13			28		0				0			0		0		1		1	//Pendant of Ability
+13			21		0				0			0		0		1		1	//Ring of Fire 
+13			22		0				0			0		0		1		1	//Ring of Earth 
+13			23		0				0			0		0		1		1	//Ring of Wind  
+13			24		0				0			0		0		1		1	//Ring of Magic  
+
+13			25		0				0			0		0		3		2	//Pendant of Ice  
+13			26		0				0			0		0		3		2	//Pendant of Wind 
+13			27		0				0			0		0		3		2	//Pendant of Water 
+13			28		0				0			0		0		3		2	//Pendant of Ability
+13			21		0				0			0		0		3		2	//Ring of Fire 
+13			22		0				0			0		0		3		2	//Ring of Earth 
+13			23		0				0			0		0		3		2	//Ring of Wind  
+13			24		0				0			0		0		3		2	//Ring of Magic 	   
+end
+
+//Jewels
+//Jewel of Chaos
+//Jewel of Soul
+//Jewel of Bless
+//Jewel of Life
+//Jewel of Creation
+//Jewel of Harmony
+//Blades
+//Excellent Sword of Destruction
+//Excellent Dark Breaker
+//Excellent Thunder Blade
+//Bows
+//Excellent Celestial Bow
+//Wizardry
+//Excellent Dragon Soul Staff
+//Excellent Shining Scepter
+//Excellent Ancient Stick
+//Excellent Book of Neil
+//Armor
+//Excellent Dark Phoenix Helm, Armor, Pants, Boots, Gloves
+//Excellent Grand Soul Helm, Armor, Pants, Boots, Gloves
+//Excellent Holy Spirit Helm, Armor, Pants, Boots, Gloves
+//Excellent Ancient Helm, Armor, Pants, Boots, Gloves
+//Excellent Dark Steel Helm, Armor, Pants, Boots, Gloves
+//Excellent Thunder Hawk Helm, Armor, Pants, Boots, Gloves
+//Shields
+//Excellent Dragon Shield
+//Excellent Elemental Shield
+//Excellent Grand Soul Shield
+//Others
+//Excellent Rings (any)
+//Excellent Pendants (any)
+//Illusion Association +1, +2
+//Devil's Invitation +3, +4, +5
+//Cloak of Invisibility +4, +5, +6
+//Lost Map +3, +4, +5
