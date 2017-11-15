@@ -1,0 +1,163 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Crywolf"		 1000	   100		  5		  0		    0		   0
+end
+
+2
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+//S4
+0          26     9          9         1       1      1        4           0           4 //Flameberge"                         
+0          27     9          9         1       1      1        4           0           4 //Sword Breaker"                      
+0          28     9          9         1       1      1        4           0           4 //Rune Bastard Sword"                 
+
+2          16     9          9         1       1      1        4           0           4 //Frost Mace"                         
+2          17     9          9         1       1      1        4           0           4 //Absolute Scepter"  
+
+5          21     9          9         1       1      1        4           0           4 //Book of Samut"                      
+5          22     9          9         1       1      1        4           0           4 //Book of Neil"                       
+5          23     9          9         1       1      1        4           0           4 //Book of Lagle"                      
+5          30     9          9         1       1      1        4           0           4 //Deadly Staff"                       
+5          31     9          9         1       1      1        4           0           4 //Inberial Staff"                     
+5          32     9          9         1       1      1        4           0           4 //Summon Spirit Stick"                
+
+6          17     9          9         1       1      1        4           0           4 //Crimson Glory"                      
+6          18     9          9         1       1      1        4           0           4 //Salamander Shield"                  
+6          19     9          9         1       1      1        4           0           4 //Frost Barrier"                      
+6          20     9          9         1       1      1        4           0           4 //Guardian Shield"                    
+6          21     9          9         1       1      1        4           0           4 //Cross Shield"   
+
+7          45     9          9         1       1      1        4           0           4 //Titan  Armor"                      
+7          46     9          9         1       1      1        4           0           4 //Brave Armor"                                          
+7          49     9          9         1       1      1        4           0           4 //Seraphim Armor"                    
+7          50     9          9         1       1      1        4           0           4 //Divine Armor"                      
+7          51     9          9         1       1      1        4           0           4 //Royal Armor"                       
+7          52     9          9         1       1      1        4           0           4 //Hades Armor"                       
+7          53     9          9         1       1      1        4           0           4 //Succubus Armor"   
+
+8          45     9          9         1       1      1        4           0           4 //Titan  Armor"                      
+8          46     9          9         1       1      1        4           0           4 //Brave Armor" 
+8          47     9          9         1       1      1        4           0           4 //
+8          48     9          9         1       1      1        4           0           4 //                                        
+8          49     9          9         1       1      1        4           0           4 //Seraphim Armor"                    
+8          50     9          9         1       1      1        4           0           4 //Divine Armor"                      
+8          51     9          9         1       1      1        4           0           4 //Royal Armor"                       
+8          52     9          9         1       1      1        4           0           4 //Hades Armor"                       
+8          53     9          9         1       1      1        4           0           4 //Succubus Armor"
+
+9          45     9          9         1       1      1        4           0           4 //Titan  Armor"                      
+9          46     9          9         1       1      1        4           0           4 //Brave Armor" 
+9          47     9          9         1       1      1        4           0           4 //
+9          48     9          9         1       1      1        4           0           4 //                                        
+9          49     9          9         1       1      1        4           0           4 //Seraphim Armor"                    
+9          50     9          9         1       1      1        4           0           4 //Divine Armor"                      
+9          51     9          9         1       1      1        4           0           4 //Royal Armor"                       
+9          52     9          9         1       1      1        4           0           4 //Hades Armor"                       
+9          53     9          9         1       1      1        4           0           4 //Succubus Armor"
+
+10         45     9          9         1       1      1        4           0           4 //Titan  Armor"                      
+10         46     9          9         1       1      1        4           0           4 //Brave Armor" 
+10         47     9          9         1       1      1        4           0           4 //
+10         48     9          9         1       1      1        4           0           4 //                                        
+10         49     9          9         1       1      1        4           0           4 //Seraphim Armor"                    
+10         50     9          9         1       1      1        4           0           4 //Divine Armor"                      
+10         51     9          9         1       1      1        4           0           4 //Royal Armor"                       
+10         52     9          9         1       1      1        4           0           4 //Hades Armor"                       
+10         53     9          9         1       1      1        4           0           4 //Succubus Armor"
+
+11         45     9          9         1       1      1        4           0           4 //Titan  Armor"                      
+11         46     9          9         1       1      1        4           0           4 //Brave Armor" 
+11         47     9          9         1       1      1        4           0           4 //
+11         48     9          9         1       1      1        4           0           4 //                                        
+11         49     9          9         1       1      1        4           0           4 //Seraphim Armor"                    
+11         50     9          9         1       1      1        4           0           4 //Divine Armor"                      
+11         51     9          9         1       1      1        4           0           4 //Royal Armor"                       
+11         52     9          9         1       1      1        4           0           4 //Hades Armor"                       
+11         53     9          9         1       1      1        4           0           4 //Succubus Armor" 
+
+
+//S8
+0         30           9          9         1       1      1        4           0           4           //Asura"                              
+0         32           9          9         1       1      1        4           0           4           //Sacred Glove"                                    
+0         35           9          9         1       1      1        4           0           4           //Phoenix Soul Star"                  
+0         36           9          9         1       1      1        4           0           4           //Cyclone Sword"                      
+0         37           9          9         1       1      1        4           0           4           //Blast Break"                        
+0         29           9          9         1       1      1        4           0           4           //Sonic Blade"   
+
+2         19           9          9         1       1      1        4           0           4           //Thunderbolt"                        
+2         20           9          9         1       1      1        4           0           4           //Horn of Steal"
+
+3         12           9          9         1       1      1        4           0           4           //Magmus Peer" 
+
+4         22           9          9         1       1      1        4           0           4           //Albatross Bow"                      
+4         23           9          9         1       1      1        4           0           4           //Dark Stinger"                                            
+4         25           9          9         1       1      1        4           0           4           //Angelic Bow"                        
+4         26           9          9         1       1      1        4           0           4           //Devil Crossbow"  
+
+5         35           9          9         1       1      1        4           0           4           //Miracle Staff"                        
+5         37           9          9         1       1      1        4           0           4           //Spite Staff"  
+
+6         22           9          9         1       1      1        4           0           4           //Lazy Wind Shield"                   
+6         23           9          9         1       1      1        4           0           4           //Light Lord Shield"                  
+6         24           9          9         1       1      1        4           0           4           //Dark Devil Shield"                  
+6         25           9          9         1       1      1        4           0           4           //Magic Knight Shield"                
+6         26           9          9         1       1      1        4           0           4           //Ambition Shield" 
+
+7         54           9          9         1       1      1        4           0           4           //Lazy Wind Armor"                   
+7         55           9          9         1       1      1        4           0           4           //Dark Devil Armor"                  
+7         56           9          9         1       1      1        4           0           4           //Sticky Armor"                                      
+7         58           9          9         1       1      1        4           0           4           //Ambition Armor"                    
+7         59           9          9         1       1      1        4           0           4           //Sacred Fire Armor"                 
+7         60           9          9         1       1      1        4           0           4           //Storm Jahad Armor"                 
+7         61           9          9         1       1      1        4           0           4           //Piercing Groove Armor"                                   
+7         73           9          9         1       1      1        4           0           4           //Phoenix Soul Armor"                
+7         74           9          9         1       1      1        4           0           4           //Stormwing Armor"                   
+7         75           9          9         1       1      1        4           0           4           //Light Lord Armor"                   
+
+8         54           9          9         1       1      1        4           0           4           //Lazy Wind Armor"                   
+8         55           9          9         1       1      1        4           0           4           //Dark Devil Armor"                  
+8         56           9          9         1       1      1        4           0           4           //Sticky Armor"                      
+8         57           9          9         1       1      1        4           0           4           //Hell Night Armor"                  
+8         58           9          9         1       1      1        4           0           4           //Ambition Armor"                    
+8         59           9          9         1       1      1        4           0           4           //Sacred Fire Armor"                 
+8         60           9          9         1       1      1        4           0           4           //Storm Jahad Armor"                 
+8         61           9          9         1       1      1        4           0           4           //Piercing Groove Armor"                                           
+8         73           9          9         1       1      1        4           0           4           //Phoenix Soul Armor"                
+8         74           9          9         1       1      1        4           0           4           //Stormwing Armor"                   
+8         75           9          9         1       1      1        4           0           4           //Light Lord Armor"                  
+8         76           9          9         1       1      1        4           0           4           //Magic Knight Armor" 
+
+9         54           9          9         1       1      1        4           0           4           //Lazy Wind Armor"                   
+9         55           9          9         1       1      1        4           0           4           //Dark Devil Armor"                  
+9         56           9          9         1       1      1        4           0           4           //Sticky Armor"                      
+9         57           9          9         1       1      1        4           0           4           //Hell Night Armor"                  
+9         58           9          9         1       1      1        4           0           4           //Ambition Armor"                    
+9         59           9          9         1       1      1        4           0           4           //Sacred Fire Armor"                 
+9         60           9          9         1       1      1        4           0           4           //Storm Jahad Armor"                 
+9         61           9          9         1       1      1        4           0           4           //Piercing Groove Armor"                                  
+9         73           9          9         1       1      1        4           0           4           //Phoenix Soul Armor"                
+9         74           9          9         1       1      1        4           0           4           //Stormwing Armor"                   
+9         75           9          9         1       1      1        4           0           4           //Light Lord Armor"                  
+9         76           9          9         1       1      1        4           0           4           //Magic Knight Armor" 
+
+10        54           9          9         1       1      1        4           0           4           //Lazy Wind Armor"                   
+10        55           9          9         1       1      1        4           0           4           //Dark Devil Armor"                  
+10        56           9          9         1       1      1        4           0           4           //Sticky Armor"                      
+10        57           9          9         1       1      1        4           0           4           //Hell Night Armor"                  
+10        58           9          9         1       1      1        4           0           4           //Ambition Armor"                    
+10        74           9          9         1       1      1        4           0           4           //Stormwing Armor"                   
+10        75           9          9         1       1      1        4           0           4           //Light Lord Armor"                  
+10        76           9          9         1       1      1        4           0           4           //Magic Knight Armor" 
+
+11        54           9          9         1       1      1        4           0           4           //Lazy Wind Armor"                   
+11        55           9          9         1       1      1        4           0           4           //Dark Devil Armor"                  
+11        56           9          9         1       1      1        4           0           4           //Sticky Armor"                      
+11        57           9          9         1       1      1        4           0           4           //Hell Night Armor"                  
+11        58           9          9         1       1      1        4           0           4           //Ambition Armor"                    
+11        59           9          9         1       1      1        4           0           4           //Sacred Fire Armor"                 
+11        60           9          9         1       1      1        4           0           4           //Storm Jahad Armor"                 
+11        61           9          9         1       1      1        4           0           4           //Piercing Groove Armor"                                       
+11        73           9          9         1       1      1        4           0           4           //Phoenix Soul Armor"                
+11        74           9          9         1       1      1        4           0           4           //Stormwing Armor"                   
+11        75           9          9         1       1      1        4           0           4           //Light Lord Armor"                  
+11        76           9          9         1       1      1        4           0           4           //Magic Knight Armor" 
+end

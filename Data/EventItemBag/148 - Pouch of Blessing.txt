@@ -1,0 +1,36 @@
+3
+//Index   DropRate
+0         10000
+end
+
+4
+//Index   Section   SectionRate   	MoneyAmount   	OptionValue   DW   DK   FE   MG   DL   SU   RF
+0         5         5000          	0         		0             1    1    1    1    1    1    1
+0         6         5000          	0         		0             1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+7181      0       0       *         *         *         *         *         *         *         0          //Bless 
+7181      0       0       *         *         *         *         *         *         *         0          //Bless 
+7181      0       0       *         *         *         *         *         *         *         0          //Bless 
+7181      0       0       *         *         *         *         *         *         *         0          //Bless 
+7182      0       0       *         *         *         *         *         *         *         0          //Soul 
+7182      0       0       *         *         *         *         *         *         *         0          //Soul 
+7182      0       0       *         *         *         *         *         *         *         0          //Soul 
+7182      0       0       *         *         *         *         *         *         *         0          //Soul 
+7184      0       0       *         *         *         *         *         *         *         0          //Life 
+7184      0       0       *         *         *         *         *         *         *         0          //Life 
+7184      0       0       *         *         *         *         *         *         *         0          //Life 
+7184      0       0       *         *         *         *         *         *         *         0          //Life 
+6159      0       0       *         *         *         *         *         *         *         0          //Chaos 
+6159      0       0       *         *         *         *         *         *         *         0          //Chaos 
+6159      0       0       *         *         *         *         *         *         *         0          //Chaos 
+6159      0       0       *         *         *         *         *         *         *         0          //Chaos 
+6876      0       0       *         *         *         *         *         *         *         0          //Lucky Bag Egg
+end
+
+6
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+7179      3       0       *         *         *         *         *         *         *         0          //Heart of Love
+end

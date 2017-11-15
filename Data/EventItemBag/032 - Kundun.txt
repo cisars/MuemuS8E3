@@ -1,0 +1,147 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks
+"Kundun"                 1000      75             3               100                100              0
+end
+
+1 
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option    Excellent
+//0           17     0          4          1       1      1        3
+end
+2
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent   SetOption   SocketOption   
+7           1      0          0          0       1 	0 	 0 	     1		 0		//Hyon Dragon Helm
+11          1      0          0          0       1 	0 	 0 	     1		 0		 //Hyon Dragon Boots
+10          1      0          0          0       1 	0 	 0 	     1		 0 		//Hyon Dragon Gloves
+0           14     0          0          0       1 	0 	 0 	     1		 0 		//Hyon Lightning Sword
+7           1      0          0          0       1 	0 	 0 	     1		 0 		//Vicious Dragon Helm
+8           1      0          0          0       1 	0 	 0 	     1		 0 		//Vicious Dragon Armor
+9           1      0          0          0       1 	0 	 0 	     1		 0 	 	//Vicious Dragon Pants
+13          22     0          0          0       1 	0 	 0  	     1		 0 		//vicious Ring of Earth
+7           3      0          0          0       1 	0 	 0  	     1		 0 		//Anubis Legendary Helm
+8           3      0          0          0       1 	0 	 0  	     1		 0 		//Anubis Legendary Armor
+10          3      0          0          0       1 	0 	 0  	     1		 0 		//Anubis Legendary Gloves
+13          21     0          0          0       1 	0 	 0  	     1		 0 		//Anubis Ring of Fire
+7           3      0          0          0       1 	0 	 0  	     1		 0 		//Isis Legendary Helm
+8           3      0          0          0       1 	0 	 0  	     1		 0 		//Anubis Legendary Armor
+9           3      0          0          0       1 	0 	 0  	     1		 0 		//Anubis Legendary Pants
+11          3      0          0          0       1 	0 	 0  	     1		 0 		//Anubis Legendary Boots
+7           14     0          0          0       1 	0 	 0  	     1		 0 		//Aruane Guardian Helm
+8           14     0          0          0       1 	0 	 0  	     1		 0 		//Aruane Guardian Armor
+9           14     0          0          0       1 	0 	 0  	     1		 0 		//Aruane Guardian Pants
+11          14     0          0          0       1 	0 	 0  	     1		 0 		//Aruane Guardian Boots
+8           15     0          0          0       1 	0 	 0  	     1		 0 		//Muren Storm Crow Armor
+9           15     0          0          0       1 	0 	 0  	     1		 0 		//Muren Storm Crow Pants
+10          15     0          0          0       1 	0 	 0  	     1		 0 		//Muren Storm Crow Gloves
+13          21     0          0          0       1 	0 	 0  	     1		 0 		//Muren Ring of fire
+7           26     0          0          0       1 	0 	 0 	     1		 0 		 //Agnis adamantine Helm
+8           26     0          0          0       1 	0 	 0 	     1		 0 		 //Agnis adamantine Armor
+9           26     0          0          0       1 	0 	 0  	     1		 0 		//Agnis adamantine Pants
+13          9      0          0          0       1 	0 	 0  	     1		 0 		//Agnis Ring of Poison
+9           26     0          0          0       1 	0 	 0  	     1		 0 		//Browii adamantine Pants
+10          26     0          0          0       1 	0 	 0  	     1		 0 		//Browii adamantine Gloves
+11          26     0          0          0       1 	0 	 0  	     1		 0 		//Browii adamantine Boots
+13          25     0          0          0       1 	0 	 0 	     1		 0 	 	//Browii Pendant of Ice
+7           40     0          0          0       1 	0 	 0 	     1		 0 		//Krono Red Wing Helm
+9           40     0          0          0       1 	0 	 0  	     1		 0 		//Krono Red Wing Pants
+10          40     0          0          0       1 	0 	 0  	     1		 0 		//Krono Red Wing Gloves
+13          24     0          0          0       1 	0 	 0 	     1		 0 	 	//Krono Ring of Magic
+7           10     0          0          0       1 	0 	 0  	     1		 0 		//Semeden Red Wing Helm
+8           10     0          0          0       1 	0 	 0  	     1		 0 		//Semeden Red Wing Armor
+10          10     0          0          0       1 	0 	 0 	     1		 0 		//Semeden Red Wing Gloves
+11          10     0          0          0       1 	0 	 0  	     1		 0 		//Semeden Red Wing Boots
+7           5      0          0          0       1 	0 	 0  	     1		 0 		//Warrior Leather Helm
+8           5      0          0          0       1 	0 	 0  	     1		 0 		//Warrior Leather Armor
+9           5      0          0          0       1 	0 	 0  	     1		 0 		//Warrior Leather Pants
+11          5      0          0          0       1 	0 	 0  	     1		 0 		//Warrior Leather Boots
+10          5      0          0          0       1 	0 	 0 	     1		 0 	 	//Warrior Leather Gloves
+2           1      0          0       	 1	 1 	0 	 0 	     1		 0 		//Warrior Morning Star
+13          8      0          0          0       1 	0 	 0 	     1		 0 		//Warrior Ring of ice
+8           0      0          0          0       1 	0 	 0  	     1		 0 		//Hyperion Bronze Armor
+9           0      0          0          0       1 	0 	 0  	     1		 0 		//Hyperion Bronze Pants
+11          0      0          0          0       1 	0 	 0 	     1		 0 	 	//Hyperion Bronze Boots
+8           6      0          0          0       1 	0 	 0  	     1		 0 		//Eplete Scale Armor
+9           6      0          0          0       1 	0 	 0  	     1		 0 		//Eplete Scale Pants
+7           6      0          0          0       1 	0 	 0  	     1		 0 		//Eplete Scale Helmet
+6           9      0          0          1 	 1 	0 	 0  	     1		 0 		//Eplete Plate Shield
+13          12     0          0          0       1 	0 	 0  	     1		 0 		//Eplete Pendant of Lightning
+8           8      0          0          0       1 	0 	 0  	     1		 0 		//Garuda Brass Armor
+9           8      0          0          0       1 	0 	 0  	     1		 0 		//Garuda Brass Pants
+10          8      0          0          0       1 	0 	 0  	     1		 0 		//Garuda Brass Gloves
+11          8      0          0          0       1 	0 	 0  	     1		 0 		//Garuda Brass Boots
+13          13     0          0          0       1 	0 	 0  	     1		 0 		//Garuda Pendant of Fire
+8           9      0          0          0       1 	0 	 0  	     1		 0 		//Kantata Plate Armor
+10          9      0          0          0       1 	0 	 0  	     1		 0 		//Kantata Plate Gloves
+11          9      0          0          0       1 	0 	 0 	     1		 0 		//Kantata Plate Boots
+13          9      0          0          0       1 	0 	 0  	     1		 0 		//Kantata Ring of Poison
+13          23     0          0          0       1 	0 	 0  	     1		 0 		//Kantata Ring of Wind
+8           2      0          0          0       1 	0 	 0  	     1		 0 		//Apollo Pad Armor
+9           2      0          0          0       1 	0 	 0  	     1		 0 		//Apollo Pad Pants
+7           2      0          0          0       1 	0	 0  	     1		 0 		//Apollo Pad Helm
+10          2      0          0          0       1 	0 	 0  	     1		 0 		//Apollo Pad Gloves
+0           0	   0          0		 1	 1 	0 	 0  	     1		 0 		//Appollo skull staff
+13          25     0          0          0       1 	0 	 0  	     1		 0 		//Apollo Pendant of Ice
+13          24     0          0          0       1 	0 	 0  	     1		 0 		//Apollo Ring of Magic
+8           4      0          0          0       1 	0 	 0  	     1		 0 		//Evis Bone Armor
+9           4      0          0          0       1 	0 	 0  	     1		 0 		//Evis Bone Pants
+11          4      0          0          0       1 	0 	 0  	     1		 0 		//Evis Bone Boots
+13          26     0          0          0       1 	0 	 0  	     1		 0 		//Evis Pendant of Wind
+7           7      0          0          0       1 	0	 0  	     1		 0 		//Hera Sphinx Armor
+9           7      0          0          0       1 	0 	 0  	     1		 0 		//Hera Sphinx Pants
+11          7      0          0          0       1 	0 	 0  	     1		 0 		//Hera Sphinx Boots
+10          7      0          0          0       1 	0 	 0  	     1		 0 		//Hera Sphinx Gloves
+7           7      0          0          0       1 	0 	 0 	     1		 0 		//Hera Sphinx Helm
+6           6      0          0          0       1 	0 	 0  	     1		 0 		//Hera Skull Shield
+11          10     0          0          0       1 	0 	 0  	     1		 0 		//Ceto Vine Boots
+9           10     0          0          0       1 	0 	 0  	     1		 0 		//Ceto Vine Pants
+10          10     0          0          0       1 	0 	 0  	     1		 0 		//Ceto Vine Gloves
+7           10     0          0          0       1 	0 	 0  	     1		 0 		//Ceto Vine Helm
+0           2      0          0          1 	 1 	0 	 0  	     1		 0 		//Ceto Rapier Sword
+13          22     0          0          0       1 	0 	 0  	     1		 0 		//Ceto Ring of Earth
+9           11     0          0          0       1 	0 	 0 	     1		 0 		//Gaia Silk Pants
+8           11     0          0          0       1 	0 	 0  	     1		 0 		//Gaia Silk Armor
+7           11     0          0          0       1 	0 	 0 	     1		 0 	 	//Gaia Silk Helm
+10          11     0          0          0       1 	0 	 0 	     1		 0 		//Gaia Silk Gloves
+4           9      0	      0          1 	 1	0	 0  	     1		 0 		//Gaia Golden Crossbow
+7           12     0          0          0       1 	0 	 0  	     1		 0 		//Odin Wind Helm
+8           12     0          0          0       1 	0 	 0  	     1		 0 		//Odin Wind Armor
+9           12     0          0          0       1 	0 	 0  	     1		 0 		//Odin Wind Pants
+10          12     0          0          0       1 	0 	 0 	     1		 0 	 	//Odin Wind Gloves
+11          12     0          0          0       1 	0 	 0  	     1		 0 		//Odin Wind Boots
+8           13     0          0          0       1 	0 	 0  	     1		 0 		//Argo Spirit Armor
+9           13     0          0          0       1 	0 	 0 	     1		 0 		//Argo Spirit Pants
+10          13     0          0          0       1 	0 	 0  	     1		 0 		//Argo Spirit Gloves
+8           14     0          0          0       1 	0 	 0  	     1		 0 		//Gywen guardian Armor
+10          14     0          0          0       1 	0 	 0  	     1		 0 		//Gywen guardian Gloves
+11          14     0          0          0       1 	0 	 0  	     1		 0 		//Gywen guardian Boots
+4           5      0          0          1       1 	0 	 0  	     1		 0 		//Gywen Sliver bow
+13          28     0          0          0       1 	0	 0  	     1		 0 		//Gywen Pendant of ability
+7           15     0          0          0       1 	0 	 0  	     1		 0 		//Gaion Storm Crow Helm
+9           15     0          0          0       1 	0 	 0  	     1		 0 		//Gaion Storm Crow Pants
+8           15     0          0          0       1 	0 	 0  	     1		 0 		//Gaion Storm Crow Armor
+13          27     0          0          0       1 	0 	 0  	     1		 0 		//Gaion Pendant of Water
+7           6      0          0          0       1 	0 	 0  	     1		 0 		//Berserker Scale Helm
+8           6      0          0          0       1 	0 	 0  	     1		 0 		//Berserker Scale Armor
+9           6      0          0          0       1 	0 	 0 	     1		 0 	 	//Berserker Scale Pants
+10          6      0          0          0       1 	0 	 0  	     1		 0 		//Berserker Scale Gloves
+11          6      0          0          0       1 	0 	 0 	     1		 0 		//Berserker Scale Boots
+7           8      0          0          0       1 	0 	 0  	     1		 0 		//Cloud Brass Helm
+9           8      0          0          0       1 	0 	 0  	     1		 0 		//Cloud Brass Pants
+8           10     0          0          0       1 	0 	 0  	     1		 0 		//Drake Vine Armor
+9           10     0          0          0       1 	0 	 0  	     1		 0 		//Drake Vine Pants
+11          10     0          0          0       1 	0 	 0  	     1		 0 		//Drake Vine Boots
+7           10     0          0          0       1 	0 	 0  	     1		 0 		//Drake Vine Helm
+9           11     0          0          0       1 	0 	 0  	     1		 0 		//Peize Silk Pants
+10          11     0          0          0       1 	0 	 0 	     1		 0 		//Peize Silk Gloves
+11          11     0          0          0       1 	0 	 0  	     1		 0 		//Peize Silk Boots
+10          12     0          0          0       1 	0	 0 	     1		 0 		//Elvian Wind Gloves
+11          12     0          0          0       1 	0 	 0  	     1		 0 		//Elvian Wind Boots
+7           59     0          0          0 	 1      0   	 0  	     1		 0 		//Vega's Sacred Helm
+8           59     0          0          0       1 	0 	 0  	     1		 0 		//Vega's Sacred Armor
+9           59     0          0          0       1 	0 	 0  	     1		 0 		//Vega's Sacred Pants
+0           32     0          0          1 	 1 	0 	 0  	     1		 0 		//Vega's Sacred Glove
+8           59     0          0          0       1 	0 	 0  	     1		 0 		//Chamereuui's Sacred Armor
+9           59     0          0          0       1 	0 	 0  	     1		 0 		//Chamereuui's Sacred Pants
+11          59     0          0          0       1 	0 	 0  	     1		 0 		//Chamereuui's Sacred Boots
+0           32     0          0          1 	 1 	0 	 0  	     1		 0 		//Chamereuui's Sacred Glove
+end
+

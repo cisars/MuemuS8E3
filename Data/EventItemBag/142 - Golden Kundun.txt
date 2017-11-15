@@ -1,0 +1,22 @@
+3
+//Index   DropRate
+0         100000000
+
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF
+0         5         100000000      100000        0             1    1    1    1    1    1    1
+end
+
+5
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+6411      9       0       1         1         1         1         1         1         1         259200    //Wings of Angel and Devil
+6410      9       0       1         1         1         1         1         1         1         259200    //Wings of Conquereor
+end
+
+6
+//Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   Comment
+6411      9       0       1         1         1         1         1         1         1         259200    //Wings of Angel and Devil
+6410      9       0       1         1         1         1         1         1         1         259200    //Wings of Conquereor
+end
